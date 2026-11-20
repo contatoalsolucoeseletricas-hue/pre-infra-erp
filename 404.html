@@ -22,7 +22,10 @@
         const origFetch = window.fetch;
         window.fetch = function(...args) {
           if (args[0] && typeof args[0] === 'string' && args[0].includes('seu-projeto.supabase.co')) {
-            return Promise.resolve(new Response(JSON.stringify({ success: true, data: [] }), {
+            var url = args[0];
+            var isSingle = url.includes('maybeSingle') || url.includes('single');
+            var body = isSingle ? "{}" : "[]";
+            return Promise.resolve(new Response(body, {
               status: 200,
               headers: { 'Content-Type': 'application/json' }
             }));
