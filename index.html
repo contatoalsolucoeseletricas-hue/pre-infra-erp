@@ -10,6 +10,21 @@
     <link rel="manifest" href="./manifest.json" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <title>Pré Infra — Sistema Integrado</title>
+    <script>
+      // Mock offline/client-side interceptor para demo PWA sem Supabase remoto
+      (function() {
+        const origFetch = window.fetch;
+        window.fetch = function(...args) {
+          if (args[0] && typeof args[0] === 'string' && args[0].includes('seu-projeto.supabase.co')) {
+            return Promise.resolve(new Response(JSON.stringify({ success: true, data: [] }), {
+              status: 200,
+              headers: { 'Content-Type': 'application/json' }
+            }));
+          }
+          return origFetch.apply(this, args);
+        };
+      })();
+    </script>
     <script type="module" crossorigin src="./assets/main-DCVmCq77.js"></script>
     <link rel="modulepreload" crossorigin href="./assets/vendor-CjA6uO8Q.js">
     <link rel="modulepreload" crossorigin href="./assets/vendor-react-gizeiZTa.js">
