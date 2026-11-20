@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="theme-color" content="#3b82f6" />
+    <meta name="description" content="Pré Infra — Sistema Integrado de Gestão com rastreabilidade LGPD e treinamento acessível em Libras." />
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="./apple-touch-icon.png" />
+    <link rel="manifest" href="./manifest.json" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <title>Pré Infra — Sistema Integrado</title>
+    <script type="module" crossorigin src="./assets/main-DCVmCq77.js"></script>
+    <link rel="modulepreload" crossorigin href="./assets/vendor-CjA6uO8Q.js">
+    <link rel="modulepreload" crossorigin href="./assets/vendor-react-gizeiZTa.js">
+    <link rel="modulepreload" crossorigin href="./assets/vendor-router-B2jHuUnp.js">
+    <link rel="modulepreload" crossorigin href="./assets/vendor-supabase-CtKZrUab.js">
+    <link rel="stylesheet" crossorigin href="./assets/main-CxOKEXjT.css">
+  <link rel="manifest" href="./manifest.webmanifest"><script id="vite-plugin-pwa:register-sw" src="./registerSW.js"></script></head>
+  <body>
+
+    <!-- Banner de Demonstração / PWA Client-Side (TalmidDev) -->
+    <div id="talmiddev-banner" style="position: sticky; top: 0; z-index: 99999; background: rgba(15, 23, 42, 0.88); backdrop-filter: blur(8px); border-bottom: 1px solid rgba(59, 130, 246, 0.4); color: #e2e8f0; font-family: system-ui, -apple-system, sans-serif; font-size: 11px; padding: 6px 12px; display: flex; justify-content: space-between; align-items: center; box-shadow: 0 2px 8px rgba(0,0,0,0.3);">
+      <div style="display: flex; align-items: center; gap: 8px;">
+        <span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #22c55e; box-shadow: 0 0 6px #22c55e;"></span>
+        <span><strong>Pré-Infra ERP v2.0</strong> · Ambiente de Demonstração Mobile / PWA Ativo</span>
+      </div>
+      <div style="display: flex; align-items: center; gap: 10px;">
+        <span style="color: #94a3b8;">Porta Local: 8082</span>
+        <button onclick="this.parentElement.parentElement.style.display='none'" style="background: none; border: none; color: #94a3b8; font-size: 14px; cursor: pointer; padding: 0 4px;">✕</button>
+      </div>
+    </div>
+
+    <div id="root"></div>
+
+    <!-- VLibras: widget oficial do governo para tradução em Libras -->
+    <div vw="true" class="enabled">
+      <div vw-access-button class="active"></div>
+      <div vw-plugin-wrapper>
+        <div class="vw-plugin-top-wrapper"></div>
+      </div>
+    </div>
+    <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+    <script>
+      window.addEventListener('load', function () {
+        try {
+          if (window.VLibras) new window.VLibras.Widget('https://vlibras.gov.br/app');
+        } catch (e) { /* sem internet ou bloqueado: ignora */ }
+      });
+    </script>
+  </body>
+</html>

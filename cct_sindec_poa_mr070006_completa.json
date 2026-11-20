@@ -1,0 +1,571 @@
+{
+  "solicitacao_mte": "MR070006/2025",
+  "processo_mte": "10264.210670/2025-51",
+  "titulo": "Convenção Coletiva de Trabalho Comércio Lojista Porto Alegre 2025/2026",
+  "partes": [
+    {
+      "razao_social": "SINDICATO DOS EMPREGADOS NO COMERCIO DE PORTO ALEGRE (SINDEC-POA)",
+      "cnpj": "92.832.880/0001-80",
+      "presidente": "NILTON NECO SOUZA DA SILVA",
+      "tipo": "Profissional"
+    },
+    {
+      "razao_social": "SINDICATO DOS LOJISTAS DO COMERCIO DE PORTO ALEGRE (SINDILOJAS)",
+      "cnpj": "92.966.316/0001-50",
+      "presidente": "ARCIONE PIVA",
+      "tipo": "Patronal"
+    },
+    {
+      "razao_social": "SINDICATO DO COM VAR MAT OPTICO FOTO E CINE DO RS (SINDIÓPTICA)",
+      "cnpj": "03.042.025/0001-46",
+      "presidente": "ANDRE LUIZ RONCATTO",
+      "tipo": "Patronal"
+    }
+  ],
+  "vigencia": {
+    "inicio": "2025-11-01",
+    "fim": "2026-10-31",
+    "data_base": "1º de Novembro"
+  },
+  "reajuste_salarial": {
+    "percentual": 5.53,
+    "data_aplicacao": "2025-11-01"
+  },
+  "pisos_salariais": [
+    {
+      "cargo": "Salário Misto (Fixo + Comissões) ou Exclusivamente Comissionistas",
+      "valor": 2067.0,
+      "hora": 9.39
+    },
+    {
+      "cargo": "Demais Empregados (Piso Geral Lojista)",
+      "valor": 1926.0,
+      "hora": 8.75
+    }
+  ],
+  "pprl_info": {
+    "status": "Acordo Coletivo Específico (ACT)",
+    "clausula_referencia": "CLÁUSULA SEPTAGÉSIMA SEGUNDA (72ª)",
+    "explicacao": "A CCT Geral MR070006/2025 não impõe percentual único obrigatório de PPRL a todos os comércios por se tratarem de empresas de portes heterogêneos. Em vez disso, estabelece expressamente na Cláusula 72ª que os acordos de Participação nos Lucros e Resultados (PPRL/PLR) devem ser firmados através de Acordo Coletivo de Trabalho (ACT) direto entre cada empresa e o SINDEC-POA, conforme a Lei nº 10.101/2000. As empresas solicitam o ACT pelo portal oficial sindec.org.br no botão 'Solicitar ACT'."
+  },
+  "url_pdf_oficial": "https://sindec.org.br/convencoes-acordos/2025-2026/MR070006.pdf",
+  "total_clausulas": 86,
+  "clausulas": [
+    {
+      "ordem": 1,
+      "numero": "CLÁUSULA PRIMEIRA",
+      "titulo": "VIGÊNCIA E DATA-BASE",
+      "texto_completo": "As partes fixam a vigência da presente Convenção Coletiva de Trabalho no período de 01º de novembro de\n2025 a 31 de outubro de 2026 e a data-base da categoria em 01º de novembro."
+    },
+    {
+      "ordem": 2,
+      "numero": "CLÁUSULA SEGUNDA",
+      "titulo": "ABRANGÊNCIA",
+      "texto_completo": "A presente Convenção Coletiva de Trabalho abrangerá a(s) categoria(s) empregados no comércio\nvarejista de material óptico, fotográfico e cinematográfico, empregados no comércio lojista, no\ncomércio varejista de maquinismos, ferragens e tintas(utensílios e ferramentas), no comércio\nvarejista de material médico, hospitalar, científico, no comércio varejista de calçados, no comércio\nvarejista de material elétrico a aparelhos eletrodomésticos, no comércio varejista de livros, no\ncomércio varejista de flores e plantas e no comércio varejista de material de escritório e papelaria ,\ncom abrangência territorial em Porto Alegre/RS.\nSALÁRIOS, REAJUSTES E PAGAMENTO\nPISO SALARIAL"
+    },
+    {
+      "ordem": 3,
+      "numero": "CLÁUSULA TERCEIRA",
+      "titulo": "SALÁRIOS NORMATIVOS",
+      "texto_completo": "Ficam instituídos a partir de 1º de novembro de 2025 os seguintes salários normativos:\na) empregados que percebam salário misto (fixo + comissões) ou exclusivamente comissões: R$ 2.067,00 (dois mil\ne sessenta e sete reais);\nb) demais empregados: R$ 1.926,00 (um mil e novecentos e vinte e seis reais).\nItem 1º - Fica garantido em qualquer hipótese que o salário normativo, respeitada a proporcionalidade da jornada,\nnão será inferior ao Salário Mínimo Regional.\nItem 2º - Fica garantido aos empregados contratados para cumprimento de jornada inferior a 220 (duzentos e vinte)\nhoras, salário normativo proporcional ao previsto na presente cláusula.\nREAJUSTES/CORREÇÕES SALARIAIS"
+    },
+    {
+      "ordem": 4,
+      "numero": "CLÁUSULA QUARTA",
+      "titulo": "REAJUSTE SALARIAL",
+      "texto_completo": "Os salários dos empregados representados pelo sindicato profissional convenente serão reajustados em 1º de\nnovembro de 2025 no percentual de 5,53% (cinco inteiros e cinquenta e três centésimos por cento), a incidir\nsobre os salários reajustados na forma da Convenção Coletiva de Trabalho ora revista.\nItem 1º - Em 1º de novembro de 2025 o percentual de reajustamento do salário do empregado que haja ingressado\nna empresa após a data-base será proporcional ao tempo de serviço e terá como limite o salário reajustado do\nempregado exercente da mesma função, admitido até 12 (doze) meses antes da data-base. Na hipótese do\nempregado não ter paradigma ou em se tratando de empresa constituída e em funcionamento depois da data-base\nda categoria, será adotado o critério proporcional ao tempo de serviço, com adição ao salário admissional, conforme\ntabela abaixo:\nADMISSÃO REAJUSTE\nnovembro/2024 5,53%\ndezembro/2024 5,11%\njaneiro/2025 4,49%\nfevereiro/2025 4,49%\nmarço/2025 2,63%\nabril/2025 1,99%\nmaio/2025 1,40%\njunho/2025 0,96%\njulho/2025 0,68%\nagosto/2025 0,68%\nsetembro/2025 0,68%\noutubro/2025 0,04%\n \nItem 2° - Poderão ser compensados nos reajustes previstos na presente convenção os aumentos salariais,\nespontâneos ou coercitivos, concedidos durante o prazo de vigência do instrumento coletivo anterior e até a data\nprevista para o reajuste salarial no presente instrumento, exceto os provenientes de término de aprendizagem;\nimplemento de idade; promoção por antiguidade ou merecimento; transferência de cargo, função, estabelecimento\nou de localidade; e equiparação salarial determinada por sentença transitada em julgado; \nItem 3º - Não poderá o empregado mais novo na empresa, por força da presente convenção, perceber salário\nsuperior ao mais antigo na mesma função.\nPAGAMENTO DE SALÁRIO – FORMAS E PRAZOS"
+    },
+    {
+      "ordem": 5,
+      "numero": "CLÁUSULA QUINTA",
+      "titulo": "PRAZO PARA PAGAMENTO DE SALÁRIOS",
+      "texto_completo": "Os salários, as horas extras e as comissões deverão ser pagos em uma única oportunidade até o 5º (quinto) dia útil\ndo mês subsequente ao vencido, ou em prazo estabelecido por lei.\nItem único - O pagamento de salários através de cheques ou depósitos bancários obrigará o empregador a\noportunizar que os valores correspondentes estejam a disposição do empregado no dia a que se refere o \"caput\" da\npresente cláusula e no horário de início do expediente bancário."
+    },
+    {
+      "ordem": 6,
+      "numero": "CLÁUSULA SEXTA",
+      "titulo": "PAGAMENTO DE SALÁRIOS EM SEXTA-FEIRA E EM VÉSPERA DE FERIADO",
+      "texto_completo": "O empregador será obrigado a efetuar o pagamento dos salários em moeda corrente sempre que o mesmo se\nrealizar em sextas-feiras ou vésperas de feriados, salvo se a empresa adotar o sistema de depósito do salário em\nconta corrente."
+    },
+    {
+      "ordem": 7,
+      "numero": "CLÁUSULA SÉTIMA",
+      "titulo": "DIFERENÇAS",
+      "texto_completo": "As diferenças resultantes da aplicação da presente Convenção Coletiva de Trabalho deverão ser satisfeitas junto\ncom a folha de pagamento dos salários do mês de dezembro de 2025.\nREMUNERAÇÃO DSR"
+    },
+    {
+      "ordem": 8,
+      "numero": "CLÁUSULA OITAVA",
+      "titulo": "REPOUSO REMUNERADO DO COMISSIONISTA",
+      "texto_completo": "O cálculo do repouso semanal remunerado devido aos empregados comissionistas tomará por base o total das\ncomissões auferidas no mês, dividido pelos dias trabalhados pelo empregado e multiplicado pelos domingos e\nferiados a que fizer jus.\nISONOMIA SALARIAL"
+    },
+    {
+      "ordem": 9,
+      "numero": "CLÁUSULA NONA",
+      "titulo": "IGUALDADE SALARIAL",
+      "texto_completo": "Fica estabelecido que não poderá haver desigualdade salarial entre homens e mulheres que prestem serviços ao\nmesmo empregador exercendo idêntica função, com mesma produtividade e mesmo tempo de serviço, conforme\nestabelece o Artigo 461 da CLT."
+    },
+    {
+      "ordem": 10,
+      "numero": "CLÁUSULA DÉCIMA",
+      "titulo": "SALÁRIO DO EMPREGADO SUBSTITUTO",
+      "texto_completo": "Admitido empregado para a função de outro dispensado sem justa causa, será garantido aquele salário igual ao do\nempregado de menor salário na função, sem considerar vantagens pessoais.\nDESCONTOS SALARIAIS"
+    },
+    {
+      "ordem": 11,
+      "numero": "CLÁUSULA DÉCIMA PRIMEIRA",
+      "titulo": "DESCONTO DE CHEQUES",
+      "texto_completo": "As empresas não poderão descontar dos empregados que exerçam a função de caixa ou equivalente, valores\ncorrespondentes a cheques sem cobertura ou fraudulentamente emitidos, desde que cumpridas as formalidades\nlegais e/ou aquelas exigidas pela empresa para aceitação de cheques, devendo estas últimas constarem de\ndocumento escrito de inequívoco conhecimento do empregado."
+    },
+    {
+      "ordem": 12,
+      "numero": "CLÁUSULA DÉCIMA SEGUNDA",
+      "titulo": "CONFERÊNCIA DE CAIXA",
+      "texto_completo": "Ficam as empresas obrigadas a proceder a conferência de caixa à vista do empregado por ela responsável sob\npena de não lhe serem facultadas quaisquer posteriores compensações por eventuais diferenças."
+    },
+    {
+      "ordem": 13,
+      "numero": "CLÁUSULA DÉCIMA TERCEIRA",
+      "titulo": "DESCONTOS SALARIAIS",
+      "texto_completo": "Serão considerados válidos os descontos salariais, desde que prévia e expressamente autorizados pelo empregado,\nefetuados pelo empregador a título de mensalidade de associação de empregados; fundações; cooperativas; clubes;\nprevidência privada; transporte; despesas realizadas em lanchonete da empresa ou local com idêntica função se\nhouver; seguro de vida em grupo; farmácia; compras no próprio estabelecimento, inclusive de ferramentas e\nutensílios de trabalho não devolvidos; convênios com médicos, dentistas, clínicas, ópticas, funerárias, hospitais,\ncasas de saúde e laboratórios; convênios com lojas; convênios para fornecimento de alimentação seja através de\nsupermercado ou por intermediação de SESC ou SESI; e outros referentes a benefícios que forem,\ncomprovadamente, utilizados pelo empregado em seu proveito.\n\nItem único - Fica ressalvado o direito do empregado de cancelar, a qualquer tempo e por escrito, a autorização para\nque se procedam aos descontos salariais especificados nesta cláusula, respeitadas as obrigações já anteriormente\nassumidas pelo empregado.\nOUTRAS NORMAS REFERENTES A SALÁRIOS, REAJUSTES, PAGAMENTOS E\nCRITÉRIOS PARA CÁLCULO"
+    },
+    {
+      "ordem": 14,
+      "numero": "CLÁUSULA DÉCIMA QUARTA",
+      "titulo": "FÉRIAS, SAL. MATERNIDADE, ANTECIPAÇÃO 13°, RESCISÓRIAS",
+      "texto_completo": "DOS COMISSIONISTAS\nO empregado comissionista terá o valor de suas férias, salário maternidade, antecipação do 13º salário e parcelas\nrescisórias calculado com base na média da remuneração variável percebida nos últimos 12 (doze) meses,\ngarantida a atualização monetária das parcelas que servirão de base de cálculo de acordo com a variação do IGP-M\n(Fundação Getúlio Vargas).\nGRATIFICAÇÕES, ADICIONAIS, AUXÍLIOS E OUTROS\n13º SALÁRIO"
+    },
+    {
+      "ordem": 15,
+      "numero": "CLÁUSULA DÉCIMA QUINTA",
+      "titulo": "13° SALÁRIO DOS COMISSIONISTAS",
+      "texto_completo": "O empregado comissionista terá o valor de sua gratificação natalina calculada com base na média da remuneração\nvariável percebida no ano, garantida a atualização monetária das parcelas que servirão de base de cálculo de\nacordo com a variação do IGP-M (Fundação Getúlio Vargas).\nItem único - Não serão atualizadas, em nenhuma hipótese, as comissões referentes ao último mês do período base\nde cálculo."
+    },
+    {
+      "ordem": 16,
+      "numero": "CLÁUSULA DÉCIMA SEXTA",
+      "titulo": "ANTECIPAÇÃO DO 13º SALÁRIO",
+      "texto_completo": "As empresas serão obrigadas a pagar 50% (cinquenta por cento) do 13º Salário, aos empregados que o requeiram,\naté cinco dias após o recebimento do aviso de férias.\nOUTRAS GRATIFICAÇÕES"
+    },
+    {
+      "ordem": 17,
+      "numero": "CLÁUSULA DÉCIMA SÉTIMA",
+      "titulo": "DIA DO COMERCIÁRIO",
+      "texto_completo": "Fica garantido a todos os empregados que trabalharem durante o mês de outubro de 2026, em homenagem ao Dia\ndo Comerciário, o pagamento de valor equivalente a 01 (um) dia de salário, a ser satisfeito junto com o salário do\nmês. A indenização ora estabelecida não integra o salário para qualquer efeito legal.\nItem único - Em se tratando de empregado comissionado puro o dia de salário será calculado pelo total das\ncomissões auferidas no mês dividido por 30 (trinta). Fica assegurado que o valor referido para a base do cálculo não\npoderá ser inferior ao salário normativo da categoria.\nADICIONAL DE HORA-EXTRA"
+    },
+    {
+      "ordem": 18,
+      "numero": "CLÁUSULA DÉCIMA OITAVA",
+      "titulo": "ADICIONAL DE HORAS EXTRAS",
+      "texto_completo": "As horas extraordinárias serão pagas e calculadas com o adicional de 50% (cinquenta por cento) para as duas\nprimeiras e 100% (cem por cento) para as subsequentes.\nItem 1º - As horas extraordinárias serão calculadas com base no salário do mês em que forem efetivamente pagas,\nexceto quando o pagamento ocorrer até o 5º (quinto) dia útil, hipótese em que será levado em consideração o\nsalário do mês anterior.\n\nItem 2º - O adicional estabelecido para as horas extraordinárias subsequentes às duas primeiras previsto no “caput”\nda cláusula poderá ser reduzido mediante acordo coletivo, com a participação do sindicato dos empregados.\nADICIONAL DE TEMPO DE SERVIÇO"
+    },
+    {
+      "ordem": 19,
+      "numero": "CLÁUSULA DÉCIMA NONA",
+      "titulo": "QUINQUÊNIO",
+      "texto_completo": "Fica assegurada a concessão de um adicional de 3% (três por cento) por quinquênio de serviço prestado na mesma\nempresa, que incidirá mês a mês sobre o salário percebido pelo empregado. Ninguém poderá perceber sob este\ntítulo valor superior a R$ 1.987,87 (um mil novecentos e oitenta e sete reais e oitenta e sete centavos). Os adicionais\npor tempo de serviço já pagos pelas empresas a seus empregados, tendo como parâmetro prazos e percentuais\ndiversos dos ora estabelecidos poderão ser objeto de compensação, não se aplicando a presente cláusula em caso\nde percepção de benefício mais vantajoso.\nItem único - O adicional previsto nesta cláusula é devido independentemente da forma de remuneração, devendo\nser aplicado, igualmente, mês a mês, sobre a remuneração variável do comissionista.\nOUTROS ADICIONAIS"
+    },
+    {
+      "ordem": 20,
+      "numero": "CLÁUSULA VIGÉSIMA",
+      "titulo": "QUEBRA DE CAIXA",
+      "texto_completo": "Os empregados que exerçam a função de caixa ou similar, perceberão um adicional no valor de 10% (dez por cento)\ndo salário efetivamente percebido a título de quebra-de-caixa, ficando ajustado que ditos valores não farão parte\nintegrante do salário do empregado para qualquer efeito legal.\nItem único - Fica facultado o não-pagamento do adicional de quebra-de-caixa pelas empresas que não procederem\nno desconto de eventuais diferenças verificadas por ocasião da conferência do caixa. A referida sistemática deverá\nser consignada no contrato de trabalho ou em documento entregue, mediante protocolo de recebimento, ao\nempregado caixa.\nCOMISSÕES"
+    },
+    {
+      "ordem": 21,
+      "numero": "CLÁUSULA VIGÉSIMA PRIMEIRA",
+      "titulo": "IRREDUTIBILIDADE DAS COMISSÕES",
+      "texto_completo": "As empresas não poderão reduzir os percentuais aplicados para cálculo das comissões, em qualquer mês do ano.\nCONTRATO DE TRABALHO – ADMISSÃO, DEMISSÃO, MODALIDADES\nNORMAS PARA ADMISSÃO/CONTRATAÇÃO"
+    },
+    {
+      "ordem": 22,
+      "numero": "CLÁUSULA VIGÉSIMA SEGUNDA",
+      "titulo": "CONTRATO DE EXPERIÊNCIA",
+      "texto_completo": "Os contratos de experiência não poderão ser celebrados por prazo inferior a quinze dias.\nItem único – Readmitido empregado no prazo de 6 (seis) meses na função que antes exercia, não será celebrado\nnovo contrato de experiência, desde que cumprido integralmente o anterior."
+    },
+    {
+      "ordem": 23,
+      "numero": "CLÁUSULA VIGÉSIMA TERCEIRA",
+      "titulo": "CÓPIA DO CONTRATO DE TRABALHO",
+      "texto_completo": "As empresas fornecerão aos seus empregados no ato de admissão, cópia do contrato de trabalho, desde que o\nmesmo não se possa conter por inteiro nas anotações da CTPS."
+    },
+    {
+      "ordem": 24,
+      "numero": "CLÁUSULA VIGÉSIMA QUARTA",
+      "titulo": "DEVOLUÇÃO DA CTPS E ANOTAÇÃO DA FUNÇÃO EXERCIDA",
+      "texto_completo": "Em caso de CTPS física, as empresas devolverão a mesma aos seus empregados, devidamente anotada, no prazo\nde 48 (quarenta e oito) horas de sua entrega ao empregador.\nItem único - Os empregadores anotarão na CTPS dos seus empregados (física ou digital) a função efetivamente\nexercida pelos mesmos. Ocorrendo alterações de função deverá ser procedido registro simultâneo na CTPS.\nDESLIGAMENTO/DEMISSÃO"
+    },
+    {
+      "ordem": 25,
+      "numero": "CLÁUSULA VIGÉSIMA QUINTA",
+      "titulo": "PRAZO PARA PAGAMENTO DAS VERBAS RESCISÓRIAS",
+      "texto_completo": "Quando da rescisão do contrato de trabalho ficam as empresas obrigadas ao pagamento dos direitos rescisórios e\nanotações na CTPS no prazo estabelecido no artigo 477, § 6º da CLT, com as alterações introduzidas pela Lei nº\n13.467, de 13 de julho de 2017.\nItem único - A inobservância dos prazos desta cláusula sujeitará o infrator às multas previstas no parágrafo oitavo\ndo artigo 477 da CLT."
+    },
+    {
+      "ordem": 26,
+      "numero": "CLÁUSULA VIGÉSIMA SEXTA",
+      "titulo": "ANOTAÇÃO DA DATA DE DESLIGAMENTO NA CTPS",
+      "texto_completo": "Ocorrendo a rescisão do pacto laboral, deverá ser anotada na CTPS do empregado a data do desligamento, bem\ncomo, a título de observação, o dia correspondente ao término do aviso prévio.\nAVISO PRÉVIO"
+    },
+    {
+      "ordem": 27,
+      "numero": "CLÁUSULA VIGÉSIMA SÉTIMA",
+      "titulo": "DISPENSA DE TRABALHO NO PERÍODO DE AVISO-PRÉVIO",
+      "texto_completo": "O empregado que em cumprimento do aviso prévio dado pelo empregador provar a obtenção de novo emprego terá\ndireito a se desligar da empresa de imediato, percebendo os dias já trabalhados no curso do aviso prévio, sem\nprejuízo das parcelas rescisórias."
+    },
+    {
+      "ordem": 28,
+      "numero": "CLÁUSULA VIGÉSIMA OITAVA",
+      "titulo": "AVISO PRÉVIO EM DOBRO",
+      "texto_completo": "Os empregados ao serem despedidos e que contêm com 45 (quarenta e cinco) ou mais anos de idade e com 05\n(cinco) ou mais anos consecutivos na mesma empresa terão direito a um período de aviso prévio de no mínimo 60\n(sessenta) dias, desde que atendidos ambos os requisitos.\nItem 1º - Em se tratando de aviso prévio trabalhado, ao arbítrio do empregado poderá ele cumprir 30 (trinta) dias,\nrecebendo em pecúnia os dias restantes.\nItem 2º - A presente vantagem não é cumulativa com a garantia prevista na Lei nº 12.506/2011, aplicando-se a\nnorma mais favorável ao empregado."
+    },
+    {
+      "ordem": 29,
+      "numero": "CLÁUSULA VIGÉSIMA NONA",
+      "titulo": "AVISO PRÉVIO - NÃO COMPARECIMENTO",
+      "texto_completo": "Os empregadores que exigirem de seus empregados o cumprimento do aviso prévio sem comparecimento ao\ntrabalho, deverão fazê-lo por escrito no próprio aviso, fazendo constar a data, local e hora do pagamento das verbas\nrescisórias.\n Ã Ã\n\nOUTRAS NORMAS REFERENTES A ADMISSÃO, DEMISSÃO E MODALIDADES DE\nCONTRATAÇÃO"
+    },
+    {
+      "ordem": 30,
+      "numero": "CLÁUSULA TRIGÉSIMA",
+      "titulo": "INFORME ANUAL DE RENDIMENTOS",
+      "texto_completo": "As empresas fornecerão aos seus empregados, quando requerido, o informe Anual de Rendimentos, para fins de\nImposto de Renda."
+    },
+    {
+      "ordem": 31,
+      "numero": "CLÁUSULA TRIGÉSIMA PRIMEIRA",
+      "titulo": "ANOTAÇÃO DO PERCENTUAL DAS COMISSÕES",
+      "texto_completo": "As empresas que remuneram seus empregados a base de comissões ficam obrigadas a anotar na CTPS dos\nmesmos ou em contrato individual, o percentual que será aplicado para o cálculo das comissões.\nItem único - Caso seja impraticável o cumprimento do disposto no “caput” desta cláusula, face à grande diversidade\nde percentuais, as empresas poderão substituir a anotação na CTPS ou contrato, pela entrega ao empregado da\ntabela de comissões"
+    },
+    {
+      "ordem": 32,
+      "numero": "CLÁUSULA TRIGÉSIMA SEGUNDA",
+      "titulo": "RELAÇÃO DE SALÁRIOS DE CONTRIBUIÇÃO E TERMO DE",
+      "texto_completo": "RESCISÃO CONTRATUAL\nAs empresas entregarão ao empregado demitente ou despedido, quando requerido, a relação de seus salários\ndurante o período trabalhado ou incorporado na Relação de Salários de Contribuição (RSC), de acordo com o\nformulário oficial, no prazo máximo de 15 (quinze) dias após o vencimento do aviso prévio.\nItem único - Os empregadores ficam obrigados a entregar ao empregado demitente ou despedido via ou cópia do\ntermo de rescisão contratual."
+    },
+    {
+      "ordem": 33,
+      "numero": "CLÁUSULA TRIGÉSIMA TERCEIRA",
+      "titulo": "RECOLHIMENTO E EXTRATO DO FGTS",
+      "texto_completo": "As empresas recolherão o FGTS com base no total da remuneração do empregado devendo entregar aos mesmos\nos extratos fornecidos pelo estabelecimento bancário."
+    },
+    {
+      "ordem": 34,
+      "numero": "CLÁUSULA TRIGÉSIMA QUARTA",
+      "titulo": "PROIBIÇÃO DO CONTRATO INTERMITENTE",
+      "texto_completo": "Fica proibida a contratação de empregados do comércio sob a modalidade de contrato intermitente, salvo previsão\nem sentido contrário em Acordo Coletivo de Trabalho com a participação do sindicato empresarial; ou conforme\nprevisão da cláusula octagésima quarta da presente Convenção Coletiva de Trabalho.\n \nRELAÇÕES DE TRABALHO – CONDIÇÕES DE TRABALHO, NORMAS DE\nPESSOAL E ESTABILIDADES\nQUALIFICAÇÃO/FORMAÇÃO PROFISSIONAL"
+    },
+    {
+      "ordem": 35,
+      "numero": "CLÁUSULA TRIGÉSIMA QUINTA",
+      "titulo": "CURSOS DE CAPACITAÇÃO",
+      "texto_completo": "Os convenentes promoverão, em conjunto, cursos de capacitação aos comerciários, de sorte a dar maior qualidade\nno desempenho das tarefas desempenhadas tais como excelência no atendimento; como melhor utilizar e fazer\nproveito do maquinário existente; operação em calculadoras, computadores; treinamento humanizado a todo o\n\npessoal que tem lida direta com o consumidor, inclusive elucidando e treinando quanto ao Código de Direito do\nConsumidor - CDC.\n \nPOLÍTICAS DE MANUTENÇÃO DO EMPREGO"
+    },
+    {
+      "ordem": 36,
+      "numero": "CLÁUSULA TRIGÉSIMA SEXTA",
+      "titulo": "INTERRUPÇÃO DAS ATIVIDADES POR MOTIVO DE FORÇA MAIOR",
+      "texto_completo": "Quando as atividades do empregador forem suspensas ou interrompidas por motivo de força maior, os sindicatos\nacordantes deverão reunir-se para entabular negociação coletiva que deverá se nortear pelos princípios da boa-fé,\nenvidando esforços pela manutenção dos empregos.\nESTABILIDADE ACIDENTADOS/PORTADORES DOENÇA PROFISSIONAL"
+    },
+    {
+      "ordem": 37,
+      "numero": "CLÁUSULA TRIGÉSIMA SÉTIMA",
+      "titulo": "ESTABILIDADE PROVISÓRIA DO ACIDENTADO",
+      "texto_completo": "Aos empregados afastados em razão de acidente de trabalho será assegurada estabilidade provisória nos termos\ndo artigo 118 da Lei nº 8.213, de 24-07-1991.\nESTABILIDADE APOSENTADORIA"
+    },
+    {
+      "ordem": 38,
+      "numero": "CLÁUSULA TRIGÉSIMA OITAVA",
+      "titulo": "ESTABILIDADE PROVISÓRIA - VÉSPERAS DA APOSENTADORIA",
+      "texto_completo": "Fica assegurada estabilidade provisória durante os 12 (doze) meses anteriores a implementação do tempo de\nserviço necessário à concessão do benefício de aposentadoria integral ao empregado que mantenha o contrato de\ntrabalho com a mesma empresa pelo prazo mínimo de 05 (cinco) anos ininterruptos.\nItem 1º - A mesma garantia prevista no “caput” é estendida, nas mesmas condições, ao empregado em via de obter\no benefício por implemento de idade e que tenham o tempo mínimo de contribuição previsto em lei.\nItem 2º - Para a concessão da estabilidade acima prevista, o empregado deverá comprovar, junto à empresa, a\naverbação do tempo de serviço, mediante certidão expedida pela Previdência Social. A apresentação da certidão\npoderá ser dispensada caso o empregador, a vista dos documentos fornecidos pelo empregado, verifique a\nexistência do tempo de serviço necessário à concessão do benefício.\nItem 3º - Para que tenha assegurada a garantia, o empregado deverá dar ciência ao empregador do implemento\ndas condições necessariamente antes de receber o aviso prévio de rescisão do contrato de trabalho.\nItem 4º - A concessão prevista nessa cláusula ocorrerá uma única vez, não se aplicando nas hipóteses de\nencerramento das atividades da empresa, dispensa por justa causa ou pedido de demissão.\nOUTRAS NORMAS REFERENTES A CONDIÇÕES PARA O EXERCÍCIO DO TRABALHO"
+    },
+    {
+      "ordem": 39,
+      "numero": "CLÁUSULA TRIGÉSIMA NONA",
+      "titulo": "TRABALHO DECENTE",
+      "texto_completo": "As entidades econômicas convenentes envidarão todos os seus esforços para que as empresas representadas\npromovam o trabalho decente; o desenvolvimento sustentável, considerados os princípios próprios das atividades\neconômica e profissional e o crescimento econômico e social do comércio e dos comerciários; o respeito aos\nprincípios e direitos fundamentais, como a liberdade sindical, a livre negociação coletiva e a não discriminação e\nigualdade no trabalho; práticas de proteção social; o diálogo social; a capacitação profissional; e a segurança e\nsaúde do trabalhador.\nOUTRAS NORMAS DE PESSOAL"
+    },
+    {
+      "ordem": 40,
+      "numero": "CLÁUSULA QUADRAGÉSIMA",
+      "titulo": "CÓPIA DO RECIBO OU ENVELOPE DE PAGAMENTO",
+      "texto_completo": "As empresas ficam obrigadas, a fornecer a seus empregados discriminativo mensal dos pagamentos e descontos\nefetuados, através de cópias dos recibos ou envelopes de pagamento com a discriminação de todas as parcelas\nrecebidas e descontadas.\nJORNADA DE TRABALHO – DURAÇÃO, DISTRIBUIÇÃO, CONTROLE, FALTAS\nCONTROLE DA JORNADA"
+    },
+    {
+      "ordem": 41,
+      "numero": "CLÁUSULA QUADRAGÉSIMA PRIMEIRA",
+      "titulo": "REMUNERAÇÃO DE REPOUSO E FERIADO",
+      "texto_completo": "No caso de atraso do empregado no horário de serviço, permitindo o empregador seu trabalho naquele dia, será\nproibido o desconto da importância relativa ao repouso semanal remunerado e feriado correspondente."
+    },
+    {
+      "ordem": 42,
+      "numero": "CLÁUSULA QUADRAGÉSIMA SEGUNDA",
+      "titulo": "LIVRO OU CARTÃO PONTO",
+      "texto_completo": "As empresas que contêm com 20 (vinte) ou mais empregados ficam obrigadas ao registro, em um único livro ou\ncartão, da jornada diária de trabalho, compreendendo o início, intervalo entre turnos e o final da jornada, mesmo que\nextraordinária.\nFALTAS"
+    },
+    {
+      "ordem": 43,
+      "numero": "CLÁUSULA QUADRAGÉSIMA TERCEIRA",
+      "titulo": "FALTA JUSTIFICADA DO EMPREGADO COMISSIONISTA",
+      "texto_completo": "O empregado comissionista, justificando nos termos previstos em lei e nesta convenção seu não comparecimento\nao trabalho, terá direito ao pagamento do dia respectivo, calculado segundo os mesmos critérios de apuração do\nrepouso semanal remunerado."
+    },
+    {
+      "ordem": 44,
+      "numero": "CLÁUSULA QUADRAGÉSIMA QUARTA",
+      "titulo": "ABONO DE FALTAS AO ESTUDANTE",
+      "texto_completo": "Os empregados estudantes, matriculados em escolas oficiais ou reconhecidas, em dias de realização de provas\nfinais de cada semestre serão dispensados de seus pontos durante meio turno, desde que comuniquem a empresa\nquarenta e oito horas antes e comprovem a realização das provas até quarenta e oito horas após.\nItem único - O empregado poderá deixar de comparecer ao serviço sem prejuízo salarial nos dias em que estiver\nrealizando provas de exame vestibular para ingresso em estabelecimento de ensino superior, desde que comunique\na empresa quarenta e oito horas antes da primeira prova e comprove a realização dos exames até quarenta e oito\nhoras após a última.\n \nJORNADAS ESPECIAIS (MULHERES, MENORES, ESTUDANTES)"
+    },
+    {
+      "ordem": 45,
+      "numero": "CLÁUSULA QUADRAGÉSIMA QUINTA",
+      "titulo": "AMAMENTAÇÃO",
+      "texto_completo": "Os intervalos para amamentação previstos no art. 396 da CLT poderão ser acumulados em único intervalo da\njornada, a critério da empregada-mãe, desde que o mesmo coincida com o horário de início ou final de um dos\nturnos da jornada de trabalho. Uma vez fixado o horário, o mesmo somente poderá ser alterado por acordo entre\nempregado e empregador.\n \nOUTRAS DISPOSIÇÕES SOBRE JORNADA"
+    },
+    {
+      "ordem": 46,
+      "numero": "CLÁUSULA QUADRAGÉSIMA SEXTA",
+      "titulo": "BALANÇOS",
+      "texto_completo": "Quando a empresa realizar balanços, balancetes e inventários deverá fazê-lo dentro do horário normal de trabalho\nou quando forem realizados fora do horário normal, as horas correspondentes deverão ser pagas com o adicional\nprevisto nesta Convenção."
+    },
+    {
+      "ordem": 47,
+      "numero": "CLÁUSULA QUADRAGÉSIMA SÉTIMA",
+      "titulo": "CONFERÊNCIA DE CAIXA",
+      "texto_completo": "As horas despendidas na conferência de caixa, quando realizadas após a jornada normal de trabalho, serão pagas\ncomo extraordinárias, com a aplicação do percentual estabelecido nesta Convenção."
+    },
+    {
+      "ordem": 48,
+      "numero": "CLÁUSULA QUADRAGÉSIMA OITAVA",
+      "titulo": "CÁLCULO DO ADICIONAL DE HORAS EXTRAS DO",
+      "texto_completo": "COMISSIONISTA\nO empregado comissionista, quando trabalhar em jornada extraordinária nas atividades de venda, somente terá\ndireito ao pagamento do adicional referente às horas trabalhadas, a medida em que as horas de labor são\nremuneradas pela produção alcançada no período extraordinário.\nItem 1º - Nesta hipótese, o adicional será calculado com base no total das comissões auferidas durante o mês,\ndividindo-se pelo número de horas efetivamente trabalhadas no mês. \nItem 2º - Em se tratando de empregado que perceba salário misto (fixo mais comissões), terá o mesmo direito ao\npagamento das horas extras prestadas, acrescidas do adicional correspondente, limitada a parcela fixa do salário."
+    },
+    {
+      "ordem": 49,
+      "numero": "CLÁUSULA QUADRAGÉSIMA NONA",
+      "titulo": "LANCHE NA JORNADA EXTRAORDINÁRIA",
+      "texto_completo": "As empresas ficam obrigadas a fornecer lanches aos empregados que tiverem a jornada de trabalho prorrogada por\nperíodo superior a duas horas."
+    },
+    {
+      "ordem": 50,
+      "numero": "CLÁUSULA QUINQUAGÉSIMA",
+      "titulo": "PIS - DISPENSA DE SERVIÇO",
+      "texto_completo": "Os empregados serão dispensados, conforme escala estabelecida pela empresa, durante meio expediente da\njornada de trabalho, sem prejuízo salarial, para saque das parcelas do PIS ou durante um dia quando o domicílio\nbancário ocorrer em lugar distinto da prestação de serviço, salvo se a empresa mantiver convênio para pagamento\ndireto das aludidas parcelas."
+    },
+    {
+      "ordem": 51,
+      "numero": "CLÁUSULA QUINQUAGÉSIMA PRIMEIRA",
+      "titulo": "REDUÇÃO DA JORNADA DE TRABALHO NO AVISO",
+      "texto_completo": "PRÉVIO\nO empregado, quando em cumprimento do aviso prévio trabalhado, mediante comunicação por escrito, poderá\nescolher a redução entre as duas primeiras ou as duas últimas horas da jornada de trabalho. Feita a opção, o\nhorário não mais poderá ser alterado."
+    },
+    {
+      "ordem": 52,
+      "numero": "CLÁUSULA QUINQUAGÉSIMA SEGUNDA",
+      "titulo": "LIMITE NO HORÁRIO NORMAL DE TRABALHO",
+      "texto_completo": "O horário normal de trabalho dos empregados representados pelo sindicato profissional acordante que\ndesempenham funções diretamente relacionadas com a atividade de venda e atendimento ao público, de janeiro a\nnovembro, não poderá ser fixado além das 22 (vinte e duas) horas.\n\nItem primeiro – No mês de dezembro o horário normal de trabalho somente poderá ser fixado até as 23 (vinte e\ntrês) horas, admitindo-se, a partir do dia 16 e até o dia 23 de dezembro de 2025, o encerramento as 24 (vinte e\nquatro) horas, desde que, não havendo transporte público disponível, a empresa forneça transporte próprio para o\ndeslocamento do local de trabalho até a residência do empregado.\nItem segundo - As empresas localizadas em Shopping Centers e em Centros Comerciais somente estarão\nautorizadas a funcionar no mês de dezembro além das 22 (vinte e duas) horas caso os\nempreendedores/proprietários destes centros de compras não exijam o funcionamento obrigatório dos\nestabelecimentos além das 23 (vinte e três) horas.\nItem terceiro – Admite-se que a jornada normal seja extrapolada em alguns minutos para a continuidade de\natendimentos de clientes iniciados antes do horário de encerramento estabelecido no caput e itens acima."
+    },
+    {
+      "ordem": 53,
+      "numero": "CLÁUSULA QUINQUAGÉSIMA TERCEIRA",
+      "titulo": "HORÁRIO DE TRABALHO NOS DIAS 24 E 31 DE",
+      "texto_completo": "DEZEMBRO\nO horário normal de trabalho dos empregados representados pelo sindicato profissional acordante nos dias 24 e 31\nde dezembro nas lojas de shopping não poderá ser fixado além das 18 (dezoito) horas, e até às 19:00h nos demais\nestabelecimentos.\nItem 1º - Admite-se que a jornada normal seja extrapolada em alguns minutos para a continuidade de atendimentos\nde clientes iniciados antes da hora limite.\nItem 2º – Em situações excepcionais os sindicatos acordantes poderão, conjuntamente, conceder autorização\nespecial para que o horário de trabalho nas lojas de shopping nestas datas seja prorrogado até as 19 (dezenove)\nhoras."
+    },
+    {
+      "ordem": 54,
+      "numero": "CLÁUSULA QUINQUAGÉSIMA QUARTA",
+      "titulo": "TRABALHO EM FERIADOS",
+      "texto_completo": "É proibido o trabalho de empregados nos feriados nos estabelecimentos comerciais representados pelos sindicatos\nacordantes, salvo disposição em sentido contrário prevista em Acordo Coletivo de Trabalho com a participação do\nsindicato patronal respectivo; ou conforme previsão da cláusula octagésima quinta da presente Convenção Coletiva\nde Trabalho.\nItem Único - As empresas, caso localizadas em Shopping Centers e em Centros Comerciais somente estarão\nautorizadas a funcionar em feriados com a utilização de empregados na forma da cláusula octagésima sexta caso\nos empregadores/proprietários destes centros de compras não exijam o funcionamento obrigatório dos\nestabelecimentos em dias de feriados, dias de eleição e na Terça- Feira de Carnaval."
+    },
+    {
+      "ordem": 55,
+      "numero": "CLÁUSULA QUINQUAGÉSIMA QUINTA",
+      "titulo": "DA COINCIDÊNCIA DO REPOUSO SEMANAL REMUNERADO",
+      "texto_completo": "COM O DOMINGO\nEstando autorizado o trabalho de empregados aos domingos no comércio fica garantido aos mesmos que a cada\nduas semanas o repouso semanal remunerado coincidirá com o domingo (regime 1x1).\nItem único - Excetuam-se da regra do caput da presente cláusula os empregados contratados para trabalhar\nsomente em sextas-feiras, sábados e domingos."
+    },
+    {
+      "ordem": 56,
+      "numero": "CLÁUSULA QUINQUAGÉSIMA SEXTA",
+      "titulo": "JORNADAS ESPECIAIS",
+      "texto_completo": "Fica vedado o trabalho em tempo parcial e em regime especial 12 x 36, salvo ajuste em contrário através de Acordo\nColetivo de Trabalho com a participação do sindicato empresarial; ou conforme previsão da cláusula octagésima\nquarta da presente Convenção Coletiva de Trabalho."
+    },
+    {
+      "ordem": 57,
+      "numero": "CLÁUSULA QUINQUAGÉSIMA SÉTIMA",
+      "titulo": "REGISTRO ELETRÔNICO DO PONTO",
+      "texto_completo": "Fica autorizada a adoção de sistema alternativo de controle eletrônico da jornada nos termos previstos na Portaria\nMTP n° 671, de 8 de novembro de 2021, mediante Acordo Coletivo de Trabalho com a participação do sindicato\npatronal; ou conforme previsão da cláusula octagésima quarta da presente Convenção Coletiva de Trabalho."
+    },
+    {
+      "ordem": 58,
+      "numero": "CLÁUSULA QUINQUAGÉSIMA OITAVA",
+      "titulo": "DO REGIME DE TELETRABALHO",
+      "texto_completo": "ITEM 1º - DO REGIME DE TELETRABALHO\nConsidera-se teletrabalho, que não se confunde por sua própria natureza com trabalho externo, a prestação de\nserviços de maneira preponderante ou não fora das dependências do empregador, com a utilização de tecnologias\nde informação e de comunicação.\nPARÁGRAFO PRIMEIRO\nO comparecimento ainda que habitual às dependências do empregador para a realização de atividades específicas\nque exijam a presença do empregado no estabelecimento não descaracteriza o regime de teletrabalho.\nPARÁGRAFO SEGUNDO\nA prestação de serviços na modalidade de teletrabalho deverá constar expressamente do contrato individual de\ntrabalho.\nPARÁGRAFO TERCEIRO\nPoderá ser realizada a alteração do regime presencial para o de teletrabalho desde que haja mútuo acordo entre as\npartes, registrado em aditivo contratual.\nPARÁGRAFO QUARTO\nPoderá ser realizada a alteração do regime de teletrabalho para o presencial por determinação do empregador,\ngarantido prazo de transição mínimo de quinze dias, com correspondente registro em aditivo contratual.     \nPARÁGRAFO QUINTO\nOs empregados poderão não ter a sua jornada controlada, hipótese em que não poderão lhes ser exigido o\ncumprimento de horários pré-estabelecidos, situação em que não terão direito ao pagamento de eventuais horas\ntidas como extraordinárias.\nPARÁGRAFO SEXTO\nCaso as partes estabeleçam controle de jornada aos empregados em teletrabalho, o mesmo poderá ser realizado\natravés do acionamento dos equipamentos de trabalho, registro a distância por equipamento móvel, controle por\nsistema de software, registro por exceção e outras formas alternativas que garantam a correta e fiel marcação dos\nhorários de início e final da jornada, não descaracterizando o teletrabalho.\nPARÁGRAFO SÉTIMO\nHavendo controle horário, empregado e empregador poderão ajustar no contrato de trabalho ou aditivo que a\nprestação de horas extraordinárias somente poderão ser realizadas com prévia autorização do empregador.\nPARÁGRAFO OITAVO\nHavendo controle horário, as horas extras poderão ser compensadas, respeitada a cláusula geral prevista na\nConvenção Coletiva de Trabalho, ou conforme previsão da cláusula octagésima quarta da presente Convenção\nColetiva de Trabalho ou, ainda, conforme previsão em Acordo Coletivo de Trabalho com a participação do sindicato\npatronal.\n\nITEM 2º - DO REGIME HÍBRIDO DE TELETRABALHO\nConsidera-se teletrabalho em regime híbrido a prestação de serviços tanto nas dependências como fora das\ndependências do empregador, sendo que nesta última hipótese com a utilização de tecnologias de informação e de\ncomunicação.\nPARÁGRAFO PRIMEIRO\nO contrato de trabalho também deverá estipular a quantidade de dias ou de dias mínimos na semana ou no mês que\no empregado deverá comparecer na sede da empresa e se os mesmos serão determinados pelo empregador ou de\nlivre escolha do empregado, com definição de prazo de comunicação entre as partes.\nPARÁGRAFO SEGUNDO\nO contrato poderá estabelecer regras mais flexíveis de comparecimento as dependências da empresa, inclusive a\nnão fixação de número de dias mínimos ou quantidade fixa de dias de comparecimento à empresa para o trabalho\npresencial.\nPARÁGRAFO TERCEIRO\nPoderá ser realizada a alteração do regime presencial para o de teletrabalho híbrido desde que haja mútuo acordo\nentre as partes, registrado em aditivo contratual.\nPARÁGRAFO QUARTO\nPoderá ser realizada a alteração do regime de teletrabalho híbrido para o presencial por determinação do\nempregador, garantido prazo de transição mínimo de quinze dias, com correspondente registro em aditivo\ncontratual.     \nPARÁGRAFO QUINTO\nOs empregados em teletrabalho híbrido poderão não ter a sua jornada controlada quando da prestação de serviços\nfora das dependências do empregador, não podendo lhes ser exigido o cumprimento de horários pré-estabelecidos\nquando em teletrabalho, hipótese em que não terão direito ao pagamento de eventuais horas tidas como\nextraordinárias.\nPARÁGRAFO SEXTO\nCaso as partes estabeleçam controle de jornada quando da prestação de serviços fora das dependências da\nempresa, o mesmo poderá ser realizado através do acionamento dos equipamentos de trabalho, registro a distância\npor equipamento móvel, controle por software, registro por exceção e outras formas alternativas que garantam a\ncorreta e fiel marcação dos horários de início e final da jornada, não descaracterizando o teletrabalho.\nPARÁGRAFO SÉTIMO\nHavendo controle horário no regime de teletrabalho, empregado e empregador poderão ajustar no contrato de\ntrabalho ou aditivo que a prestação de horas extraordinárias somente poderá ser realizada com prévia autorização\ndo empregador.\nPARÁGRAFO OITAVO\nHavendo controle horário no regime de teletrabalho, as horas extras poderão ser compensadas, respeitada a\ncláusula geral prevista na Convenção Coletiva de Trabalho, ou conforme previsão da cláusula octagésima quarta da\npresente Convenção Coletiva de Trabalho ou, ainda, conforme previsão em Acordo Coletivo de Trabalho com a\nparticipação do sindicato patronal.\nITEM 3º - DO CONTRATO DE TRABALHO\nO aditivo ao contrato de trabalho ou o contrato de trabalho admissional que estabeleçam o teletrabalho deverá ser\nformalizado entre as partes e conter: a) identificação, assinaturas (eletrônicas ou não) e domicílio ou sede das\npartes; b) menção expressa do regime de teletrabalho (híbrido se for o caso), e correspondente remuneração; c)\nindicação, quando for o caso, da jornada de trabalho e a forma de controle ou a ausência de controle; e d)\npropriedade dos instrumentos de trabalho (da empresa ou do empregado) bem como o responsável pela respectiva\ninstalação e manutenção e pelo pagamento de eventual despesa extraordinária de consumo e de utilização.\nPARÁGRAFO PRIMEIRO\nO empregado deve observar as regras de utilização e funcionamento dos instrumentos de trabalho que lhe forem\ndisponibilizados.\n\nPARÁGRAFO SEGUNDO\nSalvo acordo em contrário, o trabalhador não pode dar aos instrumentos de trabalho disponibilizados pelo\nempregador uso diverso do inerente ao cumprimento da sua prestação de trabalho.\nPARÁGRAFO TERCEIRO\n As despesas próprias de manutenção da residência, como de eletricidade, telefonia, e de conexão a redes, não\nserão suportadas pelo empregador.\nPARÁGRAFO QUARTO\nO empregador arcará com as despesas decorrentes de alterações nos planos de conexão do empregado, caso\nsejam as mesmas necessárias e previamente aprovadas pelo empregador.\nPARÁGRAFO QUINTO\nEmpregado e empregador poderão, de modo não obrigatório, ajustar, por mútuo acordo, o pagamento de ajuda de\ncusto vinculada ao teletrabalho, sendo o pagamento e seu recebimento formalizados pelas partes.\nPARÁGRAFO SEXTO\nAs utilidades mencionadas neste Item não integram a remuneração do empregado.\nITEM 4º - DA IGUALDADE DE TRATAMENTO ENTRE OS EMPREGADOS EM GERAL E OS EM\nTELETRABALHO\nO empregado em regime de teletrabalho tem os mesmos direitos e deveres dos demais empregados, com exceção\ndos destacados na presente cláusula, não havendo qualquer prejuízo quanto à sua remuneração, quanto aos\ndireitos previstos na norma coletiva, e outros benefícios concedidos por liberalidade pelo empregador.\nPARÁGRAFO PRIMEIRO - Os empregados em teletrabalho não têm direito ao vale transporte (salvo quando dos\ndeslocamentos casa-empresa e proporcionais a estes dias) e ao vale refeição quando a empresa fornecer refeição\nem refeitórios ou restaurantes conveniados, hipótese em que não será devida qualquer compensação.\nPARÁGRAFO SEGUNDO\nNo âmbito da formação profissional, o empregador deve proporcionar ao empregado em teletrabalho, em caso de\nnecessidade, preparação adequada sobre a utilização de tecnologias de informação e de comunicação inerentes ao\nexercício da respectiva atividade.\nPARÁGRAFO TERCEIRO\nO empregador deve adotar políticas para evitar o isolamento do trabalhador, garantindo eventuais contatos\npresenciais na empresa e com outros empregados, que não descaracterizarão a natureza do trabalho.\nPARÁGRAFO QUARTO\nO empregado em teletrabalho deverá ser informado periodicamente sobre os resultados de seu trabalho.\nITEM 5º - DA PRIVACIDADE DO EMPREGADO EM REGIME DE TELETRABALHO\nO empregador deve respeitar a privacidade do empregado em regime de teletrabalho e os tempos de descanso e de\nrepouso.\nITEM 6º – DAS PRECAUÇÕES PARA QUE SE EVITEM DOENÇAS E ACIDENTES DO TRABALHO\nO empregador deverá instruir os empregados, de maneira expressa, quanto às precauções a tomar a fim de evitar\ndoenças e acidentes do trabalho.\nPARÁGRAFO PRIMEIRO\nO empregado deverá assinar termo de responsabilidade comprometendo-se a seguir as instruções fornecidas pelo\nempregador.\nPARÁGRAFO SEGUNDO\nO empregador deverá empreender seus melhores esforços para qualificar o empregado para que atinja no\nteletrabalho níveis adequados de segurança e higiene.\n\nITEM 7º – DA PROTEÇÃO DE DADOS\nA empresa e os empregados em teletrabalho deverão proteger os dados fornecidos por ambas as partes, sendo\nvedada qualquer forma de compartilhamento que não seja relacionado a atividade contratada.\nPARÁGRAFO ÚNICO\nA empresa poderá monitorar as atividades empreendidas pelo empregado através das ferramentas de TI\ndisponibilizadas para a execução do trabalho.\nITEM 8º – DO USO DE IMAGEM E VOZ\nA categoria consente coletivamente o uso de imagem e voz dos empregados, inclusive quando se tratar de\nprodução de atividades que serão difundidas em plataformas digitais abertas em que sejam utilizados os dados\npessoais dos empregados (imagem, voz, nome).\nPARÁGRAFO ÚNICO\nQuando se tratar de uso de imagem e voz do empregado em material por ele produzido, o consentimento para\ndivulgação deverá ser estabelecido em termo específico ajustado entre empregado e empregador."
+    },
+    {
+      "ordem": 59,
+      "numero": "CLÁUSULA QUINQUAGÉSIMA NONA",
+      "titulo": "DO REGIME DE TELETRABALHO INICIADO NA PANDEMIA",
+      "texto_completo": "Em se tratando de regime de teletrabalho iniciado durante o período de pandemia do Covid 19, o empregador\npoderá determinar o retorno ao regime de trabalho presencial, sem a necessidade de cumprimento do período de\ntransição previsto no § 2º do art. 75-C da Consolidação das Leis do Trabalho.\nPARÁGRAFO PRIMEIRO\nAs disposições relativas à responsabilidade pela aquisição, pela manutenção ou pelo fornecimento dos\nequipamentos tecnológicos e da infraestrutura necessária e adequada à prestação do teletrabalho, trabalho remoto\nou trabalho a distância e ao reembolso de despesas arcadas pelo empregado serão previstas em contrato escrito,\nfirmado previamente ou no prazo de trinta dias, contado da data da mudança do regime de trabalho.\nPARÁGRAFO SEGUNDO\nO tempo de uso de aplicativos e programas de comunicação fora da jornada de trabalho normal do empregado não\nconstitui tempo à disposição, regime de prontidão ou de sobreaviso, exceto se houver previsão em acordo individual.\nPARÁGRAFO TERCEIRO\nFica permitida a adoção do regime de teletrabalho, trabalho remoto ou trabalho a distância para aprendizes."
+    },
+    {
+      "ordem": 60,
+      "numero": "CLÁUSULA SEXAGÉSIMA",
+      "titulo": "CURSOS E REUNIÕES",
+      "texto_completo": "Quando realizados fora do horário normal, os cursos e reuniões obrigatórios terão seu tempo compensado durante a\nsemana ou remunerado como trabalho extraordinário."
+    },
+    {
+      "ordem": 61,
+      "numero": "CLÁUSULA SEXAGÉSIMA PRIMEIRA",
+      "titulo": "TERÇA-FEIRA DE CARNAVAL E DIA DE ELEIÇÃO",
+      "texto_completo": "Fica estabelecido que na terça-feira de carnaval e em dia de eleições municipal, estadual e federal as empresas não\npoderão utilizar a mão de obra de seus empregados, salvo previsão em sentido contrário em Acordo Coletivo de\nTrabalho com a participação do sindicato empresarial; ou conforme previsão da cláusula octagésima quarta da\npresente Convenção Coletiva de Trabalho.\n \n\nFÉRIAS E LICENÇAS\nDURAÇÃO E CONCESSÃO DE FÉRIAS"
+    },
+    {
+      "ordem": 62,
+      "numero": "CLÁUSULA SEXAGÉSIMA SEGUNDA",
+      "titulo": "DATA DE INÍCIO DAS FÉRIAS",
+      "texto_completo": "As entidades convenentes adotam regra diversa da estabelecida no parágrafo terceiro do art. 134 da CLT,\nestabelecendo que é vedado o início das férias, individuais ou coletivas, no período de um dia que antecede feriado\nou dia de repouso semanal remunerado.\nSAÚDE E SEGURANÇA DO TRABALHADOR\nCONDIÇÕES DE AMBIENTE DE TRABALHO"
+    },
+    {
+      "ordem": 63,
+      "numero": "CLÁUSULA SEXAGÉSIMA TERCEIRA",
+      "titulo": "ASSENTOS",
+      "texto_completo": "As empresas colocarão assentos nos locais de trabalho para uso dos empregados que tenham por atividade o\natendimento ao público, nos termos da Portaria nº 3214/78 do Ministério do Trabalho e Emprego."
+    },
+    {
+      "ordem": 64,
+      "numero": "CLÁUSULA SEXAGÉSIMA QUARTA",
+      "titulo": "LOCAL PARA LANCHE",
+      "texto_completo": "As empresas que não dispensarem seus empregados pelo período necessário para fazer lanche manterão local\napropriado e em condições de higiene para tal."
+    },
+    {
+      "ordem": 65,
+      "numero": "CLÁUSULA SEXAGÉSIMA QUINTA",
+      "titulo": "LOCAL DE TRABALHO",
+      "texto_completo": "Os locais de trabalho serão mantidos em estado de higiene compatível com o gênero da atividade.\n \nEQUIPAMENTOS DE SEGURANÇA"
+    },
+    {
+      "ordem": 66,
+      "numero": "CLÁUSULA SEXAGÉSIMA SEXTA",
+      "titulo": "UNIFORMES, ACESSÓRIOS E EQUIPAMENTOS DE PROTEÇÃO",
+      "texto_completo": "As empresas que exigirem o uso de uniforme ficam obrigadas a fornecê-los para seus empregados, em número de 2\n(dois) por ano e sem qualquer ônus, a título de empréstimo e para uso exclusivo em serviço, ficando estabelecido\nque os mesmos deverão ser devolvidos às empresas qualquer que seja o seu estado de conservação.\nItem 1º - Quando a empresa exigir, também, o uso de determinados tipos de acessórios, tais como sapatos, meias,\nmaquilagem, etc., deverá fornecê-los sem ônus ao empregado.\nItem 2º - Os empregadores, na hipótese de previsão legal de fornecimento obrigatório, alcançarão a seus\nempregados Equipamentos de Proteção Individual, ficando estabelecido que estes serão devolvidos, qualquer que\nseja o seu estado de conservação, nos casos de substituição ou quando do rompimento do vínculo contratual.\nRELAÇÕES SINDICAIS\nSINDICALIZAÇÃO (CAMPANHAS E CONTRATAÇÃO DE SINDICALIZADOS)"
+    },
+    {
+      "ordem": 67,
+      "numero": "CLÁUSULA SEXAGÉSIMA SÉTIMA",
+      "titulo": "DESCONTO DE MENSALIDADES SINDICAIS",
+      "texto_completo": "Os empregadores descontarão do salário dos empregados filiados as mensalidades devidas por estes ao SINDEC,\ndesde que haja prévia e expressa autorização do interessado, repassando o valor recolhido até o 10º (décimo) dia\nsubsequente ao desconto.\n \nCONTRIBUIÇÕES SINDICAIS"
+    },
+    {
+      "ordem": 68,
+      "numero": "CLÁUSULA SEXAGÉSIMA OITAVA",
+      "titulo": "CÓPIA DE GUIAS E RELAÇÃO NOMINAL DE EMPREGADOS",
+      "texto_completo": "Ficam as empresas obrigadas a encaminhar às entidades convenentes, cópia das guias de Contribuição Sindical e\nContribuição Negocial/Assistencial acompanhadas de relação nominal dos empregados, no prazo de 15 (quinze)\ndias após o pagamento respectivo."
+    },
+    {
+      "ordem": 69,
+      "numero": "CLÁUSULA SEXAGÉSIMA NONA",
+      "titulo": "CONTRIBUIÇÃO ASSISTENCIAL PATRONAL - SINDILOJAS",
+      "texto_completo": "As empresas representadas pelo Sindicato dos Lojistas do Comércio de Porto Alegre ficam obrigadas a recolher,\naos cofres da entidade, mediante guias próprias e em estabelecimentos bancários indicados, importância\nequivalente a 02 (dois) dias de salário (a importância fixa estipulada, as gratificações legais e as comissões pagas\npelo empregador, conforme art. 457 parágrafo primeiro da CLT) do mês de janeiro de 2026 e 01 (um) dia de\nsalário (a importância fixa estipulada, as gratificações legais e as comissões pagas pelo empregador, conforme art.\n457 parágrafo primeiro da CLT) do mês de julho de 2026. Os recolhimentos deverão ser efetuados até 20-03-\n2026 e 20-08-2026, respectivamente, sob pena das cominações previstas no artigo 600 da CLT.\nItem 1º - Nenhuma empresa, possuindo ou não empregados, poderá contribuir a este título com importância inferior\na R$ 80,00 (oitenta reais) por contribuição, respectivamente, em janeiro de 2026 e julho de 2026.\nItem 2º – O referido desconto se constitui em ônus do empregador."
+    },
+    {
+      "ordem": 70,
+      "numero": "CLÁUSULA SEPTAGÉSIMA",
+      "titulo": "CONTRIBUIÇÃO ASSISTENCIAL PATRONAL - SINDIÓPTICA",
+      "texto_completo": "As empresas representadas pelo Sindicato do Comércio Varejista de Material Óptico, Fotográfico e Cinematográfico\ndo Estado do Rio Grande do Sul ficam obrigadas a recolher aos cofres da referida entidade, mediante guias próprias\ne em estabelecimentos bancários indicados, importância equivalente a 02 (dois) dias de salário total (salário base,\nhoras extraordinárias, abonos, adicionais, comissões, etc.) do mês de dezembro de 2025 e 02 (dois) dias do\nsalário do mês de julho de 2026, de todos os seus empregados, beneficiados ou não com as cláusulas do\npresente acordo. Os recolhimentos deverão ser efetuados até o dia 15-01-2026 e 15-08-2026, respectivamente, sob\npena das cominações previstas no art. 600 da CLT.\nItem 1º - Nenhuma empresa, possuindo ou não empregados, poderá contribuir a este título com importância inferior\na R$ 88,00 (oitenta e oito reais) por contribuição, respectivamente, em janeiro de 2026 e agosto de 2026, valores\nestes que sofrerão a incidência de correção monetária após 15-01-2026 e 15-08-2026.\nItem 2º – O referido desconto se constitui em ônus do empregador."
+    },
+    {
+      "ordem": 71,
+      "numero": "CLÁUSULA SEPTAGÉSIMA PRIMEIRA",
+      "titulo": "CONTRIBUIÇÃO NEGOCIAL – EMPREGADOS",
+      "texto_completo": "Na forma do art. 513, “e”, da CLT e com fundamento no Tema 935 fixado pelo Supremo Tribunal Federal, na Súmula\nnº 86 do TRT-4, na Nota Técnica nº 09/2024 da CONALIS e na decisão da Câmara de Coordenação e Revisão do\nMPT (CCR) exarada nos autos do procedimento nº 000076.2002.04.000/2, os empregados abrangidos por esta\nConvenção Coletiva de Trabalho, em conformidade com a deliberação da Assembleia Geral realizada no dia 28 de\nagosto de 2025, independentemente de sua condição de sindicalizado ou não, autorizam as empresas a\ndescontarem em folha de pagamento (contracheque ou assemelhado), relativo à taxa de Contribuição Negocial,\ndecorrente das negociações coletivas de trabalho ocorridas no mês-base de novembro, valor mensal equivalente a\n1,5% (um inteiro e cinquenta centésimos por cento) de sua remuneração (salário base, horas extraordinárias,\nabonos, adicionais, comissões, etc.), contribuição esta que não poderá ser superior a R$ 40,00 (quarenta reais) por\nempregado.\n\nItem 1º - Caberá ao empregador proceder mensalmente ao desconto na folha de pagamento da Contribuição\nNegocial referida na presente cláusula, recolhendo a importância total, através de guias fornecidas pelo sindicato\nprofissional acordante, até o dia oito do mês subsequente ao de competência do salário que sofreu o\ndesconto. O pagamento poderá ser efetuado diretamente ao Sindicato profissional, na sede do mesmo, localizada\nna Rua General Vitorino nº 113, no horário comercial, ou por via bancária, em estabelecimento a ser indicado, em\nnome do Sindicato dos Empregados no Comércio de Porto Alegre.\nItem 2º - Os recolhimentos efetuados fora do prazo serão acrescidos de multa de 10% (dez por cento) nos trinta\nprimeiros dias, com adicional de 2% (dois por cento) por mês subsequente de atraso, além de juros de 1% (um por\ncento) ao mês e atualização monetária.\nItem 3º - O empregado terá direito ao exercício de oposição ao desconto acima, devendo fazê-lo pessoalmente, por\nescrito, com identificação legível do nome do empregado, nº do CPF do empregado e CNPJ do empregador, de\nacordo com o modelo divulgado no sítio eletrônico do SINDEC (https://sindec.org.br/), sendo entregue pelo\ninteressado e assinado na sede do SINDEC, na Rua General Vitorino, nº 113, Centro Histórico, Porto Alegre/RS, das\n9 horas às 18 horas, de segunda a sexta -feira, nos seguintes períodos: 01 a 15/12/2025 e 04 a 18/05/2026. O\nempregado também deverá entregar uma via da oposição ao seu empregador.\n Item 4º - O empregado admitido depois de ultrapassado o período do direito de oposição, poderá exercê-lo até o\núltimo dia útil do mês subsequente ao de sua admissão.\nDISPOSIÇÕES GERAIS\nREGRAS PARA A NEGOCIAÇÃO"
+    },
+    {
+      "ordem": 72,
+      "numero": "CLÁUSULA SEPTAGÉSIMA SEGUNDA",
+      "titulo": "VALIDADE DOS ACORDOS COLETIVOS DE TRABALHO",
+      "texto_completo": "Os acordos coletivos de trabalho envolvendo empregados e empresas representadas pelas entidades convenentes,\nsalvo aqueles que tratam especificamente de participação nos lucros e resultados, deverão ser obrigatoriamente\nassistidos e firmados pelo sindicato econômico, sob pena de ineficácia."
+    },
+    {
+      "ordem": 73,
+      "numero": "CLÁUSULA SEPTAGÉSIMA TERCEIRA",
+      "titulo": "CONTRAPARTIDAS",
+      "texto_completo": "A anulação de qualquer das vantagens compensatórias empresariais previstas no presente instrumento implicará na\nimediata anulação das contrapartidas benéficas aos empregados concedidas nesta Convenção Coletiva de\nTrabalho, inclusive o prêmio por pagamento em domingos e feriados."
+    },
+    {
+      "ordem": 74,
+      "numero": "CLÁUSULA SEPTAGÉSIMA QUARTA",
+      "titulo": "COMISSÃO PARITÁRIA",
+      "texto_completo": "Será composta Comissão Paritária com a participação de representantes dos sindicatos acordantes com as\nseguintes atribuições:\na) acompanhamento permanente do funcionamento dos estabelecimentos comerciais nos domingos e feriados;\nb) zelar pelo fiel cumprimento das normas contidas na presente convenção;\nc) exigir do empregador ou empregado que estiver descumprindo norma ajustada que seja a infração imediatamente\nsanada; e\nd) autorizar a imposição de multas e verificar seu efetivo pagamento.\nMECANISMOS DE SOLUÇÃO DE CONFLITOS"
+    },
+    {
+      "ordem": 75,
+      "numero": "CLÁUSULA SEPTAGÉSIMA QUINTA",
+      "titulo": "AÇÕES CONJUNTAS DOS SINDICATOS ACORDANTES",
+      "texto_completo": "Os sindicatos acordantes envidarão seus melhores esforços para tentar viabilizar:\n\na) o desenvolvimento de atividades esportivas e culturais para filhos de comerciários maiores de 6 (seis) anos e\nmenores de 14 (quatorze) anos no turno em que não estejam cursando a escola oficial;\nb) cursos de capacitação aos comerciários, com vistas a excelência no atendimento, melhor utilização e proveito do\nmaquinário existente, treinamento na operação de computadores e calculadoras e treinamento relativo aos direitos\ndos consumidores;\nc) cursos de qualificação ou requalificação profissional, ministrados ou promovidos pelas entidades sindicais\nacordantes; e\nd) palestras aos comerciários sobre assédio moral e sexual, e prevenção da AIDS e outros tipos de doenças\nendêmicas ou epidêmicas."
+    },
+    {
+      "ordem": 76,
+      "numero": "CLÁUSULA SEPTAGÉSIMA SEXTA",
+      "titulo": "DA CRIAÇÃO E FUNCIONAMENTO CENTRO BIPARTITE",
+      "texto_completo": "TRABALHISTA DO COMÉRCIO (CBT)\nOs sindicatos acordantes manterão o Centro Bipartite Trabalhista do Comércio (CBTC) que presta serviços tarifados\nde assistência às rescisões de contratos de trabalho, homologação de quitação anuais dos contratos de trabalho,\nmediação de acordos extrajudiciais a serem submetidos a Justiça do Trabalho para homologação, conciliação prévia\nde conflitos trabalhistas, e arbitragem de conflitos de hipersuficientes."
+    },
+    {
+      "ordem": 77,
+      "numero": "CLÁUSULA SEPTAGÉSIMA SÉTIMA",
+      "titulo": "DO CUMPRIMENTO DA LEI MUNICIPAL Nº 284/92",
+      "texto_completo": "Os sindicatos acordantes envidarão seus maiores esforços para que os Centros Comerciais e Shopping Centers\ncumpram a Lei Complementar do Município de Porto Alegre nº 284/92 (Código de Edificações) no que se refere a\nobrigação de manutenção de refeitório para utilização dos empregados das lojas ali instaladas."
+    },
+    {
+      "ordem": 78,
+      "numero": "CLÁUSULA SEPTAGÉSIMA OITAVA",
+      "titulo": "AÇÕES CONJUNTAS PARA RETOMADA DO CRESCIMENTO DA",
+      "texto_completo": "ATIVIDADE COMERCIAL\nAs entidades acordantes manterão um fórum permanente de discussões para definição de ações conjuntas com\nvistas ao crescimento da atividade comercial e preservação de empregos."
+    },
+    {
+      "ordem": 79,
+      "numero": "CLÁUSULA SEPTAGÉSIMA NONA",
+      "titulo": "GRUPO DE TRABALHO",
+      "texto_completo": "As entidades ora signatárias se comprometem a instituir Grupo de Trabalho objetivando discutir possíveis cláusulas\nnegociais dispondo sobre as relações de trabalho do divulgador em plataformas digitais de consumo.\nDESCUMPRIMENTO DO INSTRUMENTO COLETIVO"
+    },
+    {
+      "ordem": 80,
+      "numero": "CLÁUSULA OCTAGÉSIMA",
+      "titulo": "DESCUMPRIMENTO DAS CLÁUSULAS DA CONVENÇÃO",
+      "texto_completo": "Na hipótese de descumprimento das cláusulas e condições ajustadas na presente convenção, o SINDEC notificará\npor escrito a entidade sindical que representa a empresa infratora que, no prazo de 24 (vinte e quatro) horas,\ndiligenciará junto à empresa para que a obrigação seja cumprida, ou sejam prestados os esclarecimentos\nnecessários, no prazo de 48 (quarenta e oito) horas.\nItem 1º - Caso mantido o descumprimento da obrigação após a notificação ou caso prestados os esclarecimentos o\nassunto será submetido à Comissão Paritária das entidades acordantes para providências.\n\nItem 2º  - Caso as duas entidades atestem o descumprimento será imposta ao infrator multa equivalente a 20%\n(vinte por cento) do piso salarial fixo que reverterá em favor do empregado  prejudicado."
+    },
+    {
+      "ordem": 81,
+      "numero": "CLÁUSULA OCTAGÉSIMA PRIMEIRA",
+      "titulo": "MULTAS",
+      "texto_completo": "As empresas que não observarem as regras previstas nas cláusulas quinquagésima segunda, quinquagésima\nterceira, quinquagésima quarta, sexagésima primeira, octagésima quarta e octagésima quinta da presente\nConvenção Coletiva de Trabalho ou que praticarem condutas antissindicais ficam sujeitas ao pagamento de multa\nde R$ 1.000,00 (um mil reais) a R$ 50.000,00 (cinquenta mil reais) a ser aplicada pelas entidades convenentes,\nconforme a gravidade da infração, sem prejuízo da expedição de documento individual (por estabelecimento) de\ncessação da autorização para funcionamento especial em feriados, garantida a defesa da empresa que poderá ser\noferecida no prazo de 48 (quarenta e oito) horas após a notificação.\nItem único - A multa será paga ao Sindicato dos Empregados no Comércio de Porto Alegre, que repassará, em\npartes iguais, para os empregados da empresa prejudicados pela inobservância do limite de jornada.\n \nOUTRAS DISPOSIÇÕES"
+    },
+    {
+      "ordem": 82,
+      "numero": "CLÁUSULA OCTAGÉSIMA SEGUNDA",
+      "titulo": "DAS REGRAS DE VIGÊNCIA",
+      "texto_completo": "As condições estabelecidas na presente Convenção Coletiva de Trabalho vigoram pelo prazo de 12 (doze) meses, a\npartir de 01 de novembro de 2025, não integrando, de forma definitiva, após expirado o prazo de vigência, os\ncontratos individuais de trabalho."
+    },
+    {
+      "ordem": 83,
+      "numero": "CLÁUSULA OCTAGÉSIMA TERCEIRA",
+      "titulo": "INICIATIVAS QUE PROMOVAM A CONSCIENTIZAÇÃO SOBRE",
+      "texto_completo": "O AUTISMO\nOs convenentes estabelecem colaboração mútua para implementar iniciativas que promovam a conscientização\nsobre o autismo, incluindo, campanhas educativas, treinamentos para os empregados e estímulo à adaptação de\nambientes comerciais para melhor atender às necessidades de pessoas com autismo.\nItem 1 - O SINDEC se compromete a mobilizar seus membros para participação ativa nas ações propostas e a\nfomentar a disseminação de informações sobre o autismo entre os empregados no comércio e, o Sindicato\neconômico se compromete a incentivar a categoria representada a aderirem às iniciativas propostas, oferecendo\norientações para a implementação das adaptações necessárias em seus estabelecimentos comerciais.\nItem 2 - Comprometem-se os sindicatos convenentes a envidar os melhores esforços para realizar as seguintes\nações: a) realização de campanhas conjuntas durante o mês de abril de 2026, reconhecido internacionalmente\ncomo o mês de conscientização sobre o autismo; b) desenvolvimento de materiais informativos e formativos para\nencaminhamento aos estabelecimentos comerciais; c) promoção de treinamentos específicos para empregados do\ncomércio sobre como atender de maneira inclusiva e sensível às necessidades de clientes com autismo; e d)\nestímulo à adaptação dos ambientes comerciais para torná-los mais acessíveis a pessoas com autismo."
+    },
+    {
+      "ordem": 84,
+      "numero": "CLÁUSULA OCTAGÉSIMA QUARTA",
+      "titulo": "DAS EMPRESAS QUE MANTINHAM ACORDO COLETIVO DE",
+      "texto_completo": "TRABALHO (ACT)\n \nAs empresas que mantinham Acordo Coletivo de Trabalho com o sindicato profissional convenente, celebrado com a\nassistência do sindicato empresarial, com vigência no período 2024/2025, caso requeiram e obtenham certidão\nconjunta fornecida pelas entidades sindicais que ateste a regularidade do cumprimento destes Acordos Coletivos de\nTrabalho  ficam autorizadas a adotarem as regras e condições dos incisos da presente cláusula. A certidão não\nfornece quitação das obrigações do acordo coletivo referido, podendo ser revogada, a qualquer momento, caso\nconstatado descumprimento. As empresas que não mantinham Acordo Coletivo de Trabalho com o sindicato\n\nprofissional convenente, celebrado com a assistência do sindicato empresarial, ficam autorizadas a adotarem as\nregras e condições dos incisos da presente cláusula, mediante autorização específica em Acordo Coletivo de\nTrabalho celebrado com à assistência do sindicato empresarial.\n \nI - CONDIÇÕES ESPECIAIS QUANTO AO PISO SALARIAL \nSão estabelecidas as seguintes condições especiais relativas aos pisos salariais:\na) Ficam instituídos a partir de 1º de novembro de 2025 os seguintes salários normativos para os empregados em\nregime de contrato de experiência de até 90 dias:\na.1.) empregados que percebam salário misto (fixo + comissões) ou exclusivamente comissões: R$ 2.013,06 (dois\nmil e treze reais e seis centavos);\na.2.) empregados que percebam salário fixo: R$ 1.836,28 (um mil e oitocentos e trinta e seis reais e vinte e oito\ncentavos);\na.3) empregados ocupados em serviço de limpeza; que exerçam a função de “office-boy” e aprendizes:  R$ 1.721,80\n(um mil e setecentos e vinte e um reais e oitenta centavos);\nb) Não será aplicado aos empregados ocupados em serviço de limpeza; que exerçam a função de office-boy”; e\naprendizes o piso salarial estabelecido na cláusula terceira para os demais empregados, prevalecendo como\ngarantia mínima o valor de R$ 1.771,19 (um mil e setecentos e setenta e um reais e dezenove centavos).\nc) A garantia de percepção do salário mínimo estadual prevista no Item 1º da Cláusula Terceira não prevalece em\nrelação aos empregados das empresas enquadradas na presente cláusula. \nPARÁGRAFO ÚNICO - Fica garantido aos empregados contratados para cumprimento de jornada inferior a 220\n(duzentos e vinte) horas, salário normativo proporcional ao previsto no presente inciso.\n \nII - DOS LIMITES DO REAJUSTE SALARIAL\nO percentual de reajuste previsto no “caput” da cláusula quarta da presente Convenção Coletiva de Trabalho será\naplicado obrigatoriamente até a parcela de R$ 8.860,51 (oito mil oitocentos e sessenta reais e cinquenta e um\ncentavos) dos salários, e, no que exceder este valor, aplica-se a livre negociação com seu empregador. \n \nIII - DO CONTRATO DE TRABALHO INTERMITENTE \nAs empresas ficam autorizadas a celebrar contrato de trabalho intermitente por escrito, que deverá conter\nespecificamente o valor da hora de trabalho, que não pode ser inferior ao valor horário do piso normativo da\ncategoria ou àquele devido aos demais empregados do estabelecimento que exerçam a mesma função em contrato\nintermitente ou não. \nPARÁGRAFO PRIMEIRO - O empregador convocará o empregado por qualquer meio de comunicação eficaz (e-\nmail, mensagem de SMS, mensagem de WhatsApp, carta registrada, etc.) informando o local da prestação do\nserviço, a jornada e o período de trabalho, com, pelo menos, três dias corridos de antecedência do início da\nprestação de serviços. \nPARÁGRAFO SEGUNDO - Em se tratando de trabalho contínuo em pelo menos 4 (quatro) dias da semana a\nconvocação terá como limite o período de 4 (quatro) meses de trabalho.\nPARÁGRAFO TERCEIRO - Em caso de trabalho descontínuo em no máximo 3 (três) dias da semana a convocação\nterá como limite o período de 1 (um) mês.\nPARÁGRAFO QUARTO - Comprovadamente recebida a convocação, o empregado terá o prazo de um dia útil para\nresponder ao chamado, presumindo-se, no silêncio, a recusa. \nPARÁGRAFO QUINTO - A recusa da oferta não descaracteriza a subordinação para fins do contrato de trabalho\nintermitente.\n\nPARÁGRAFO SEXTO - O período de inatividade não será considerado tempo à disposição do empregador,\npodendo o trabalhador prestar serviços a outros contratantes.\nPARÁGRAFO SÉTIMO - Ao final de cada período de prestação de serviço, ou após o período de 30 (trinta) dias do\ninício da prestação, o empregado receberá, na mesma data que os salários dos demais empregados da empresa, o\npagamento das seguintes parcelas:\nI - remuneração; \nII - férias proporcionais com acréscimo de um terço; \nIII - décimo terceiro salário proporcional; \nIV - repouso semanal remunerado; e \nV - adicionais legais. \nPARÁGRAFO OITAVO - O recibo de pagamento deverá conter a discriminação dos valores pagos relativos a cada\numa das parcelas referidas no § 7º desta cláusula.\nPARÁGRAFO NONO - O empregador efetuará o recolhimento da contribuição previdenciária e o depósito do Fundo\nde Garantia do Tempo de Serviço, na forma da lei, com base nos valores pagos no período mensal e fornecerá ao\nempregado comprovante do cumprimento dessas obrigações. \nPARÁGRAFO DÉCIMO - Os empregados da modalidade contrato de trabalho intermitente não serão computados\npara efeitos do cálculo da cota de deficientes a que refere a lei nº 8.213/91 e de aprendizes de que trata o art. 429\nda CLT, e não serão considerados para efeitos do seu cumprimento;\nPARÁGRAFO DÉCIMO PRIMEIRO - Os empregados com contrato de trabalho intermitente têm direito a vale\ntransporte e a todas as vantagens legais e convencionais que alcançam os demais empregados, desde que\ncompatíveis com o contrato intermitente, e proporcionais as horas de efetivo trabalho no mês.\nPARÁGRAFO DÉCIMO SEGUNDO - O contrato intermitente poderá ser rescindido por qualquer uma das partes e a\nqualquer tempo, sendo as verbas rescisórias e o aviso prévio calculados com base na média dos valores recebidos\npelo empregado no curso do contrato de trabalho.\nPARÁGRAFO DÉCIMO TERCEIRO - Dada as características especiais do contrato de trabalho intermitente, não\nconstitui discriminação salarial ou ofensa ao princípio da isonomia pagar ao trabalhador intermitente remuneração\nsuperior à paga aos demais trabalhadores da empresa contratados a prazo indeterminado.\n \nIV - DO BANCO DE HORAS \nAs empresas ficam autorizadas a adotar regime de compensação horária de até 180 (cento e oitenta) dias, hipótese\nem que a duração normal diária poderá ser ultrapassada em até 2 (duas) horas.\nPARÁGRAFO PRIMEIRO - O acréscimo de salário correspondente às horas suplementares será dispensado,\nquando o excesso de horas em um dia for compensado pela correspondente diminuição em outro dia (anterior ou\nposterior), de maneira que não exceda, no período máximo de 180 (cento e oitenta) dias, à soma das jornadas\nsemanais de trabalho ajustadas com o empregado.\nPARÁGRAFO SEGUNDO - Para fins de aplicação da presente cláusula, deverá ser delimitado pelo empregador a\ndata de início e final do período em que será adotada a sistemática de compensação horária.   \nPARÁGRAFO TERCEIRO - Ao término de cada período será verificado o total de horas trabalhadas e o total de\nhoras compensadas. Havendo débito do empregado para com a empresa, as horas não trabalhadas no período não\nserão descontadas, iniciando-se nova contagem.  Havendo crédito do empregado para com a empresa, as horas\nnão compensadas serão computadas e remuneradas com o adicional de horas extras devido.\nPARÁGRAFO  QUARTO - Na hipótese de o empregado solicitar demissão antes do fechamento do período, será\ncontabilizado o total de horas trabalhadas e o total de horas compensadas. Se houver débito de horas do\nempregado para com a empresa, as horas não trabalhadas serão descontadas das verbas a que o empregado tiver\ndireito na rescisão. No entanto, se houver crédito a favor do empregado, as horas não compensadas serão\ncomputadas e remuneradas com o adicional de horas extras devido.         \n\nPARÁGRAFO  QUINTO - Havendo rescisão do contrato por iniciativa da empresa, antes do fechamento do período,\nserá contabilizado o total de horas trabalhadas e o total de horas compensadas. Se houver débito de horas do\nempregado para com a empresa, as horas não trabalhadas serão abonadas, sem qualquer desconto nas verbas a\nque o trabalhador tiver direito na rescisão. No entanto, se houver crédito a favor do empregado, as horas não\ncompensadas serão computadas e remuneradas com o adicional de horas extras devido.\nPARÁGRAFO SEXTO - A faculdade estabelecida no “caput” e parágrafos desta cláusula aplica-se a todas as\natividades, inclusive aquelas consideradas insalubres – excetuadas as gestantes em locais insalubres -,\nindependentemente da autorização a que se refere o artigo 60 da CLT. O sindicato profissional acordante, a\nqualquer tempo, poderá solicitar à empresa informações referentes ao acompanhamento médico dos empregados\nque realizam jornada compensatória em atividade insalubre.\nPARÁGRAFO SÉTIMO - A prestação de horas extras habituais não descaracteriza o acordo de compensação de\njornada e o banco de horas.   \nPARÁGRAFO OITAVO - As empresas na adoção do regime de banco de horas envidarão os seus melhores\nesforços para que horas de ausências sejam utilizadas por trabalhadores pais atípicos, assim entendidos aqueles\nque possuírem filho natural ou adotado portador do TEA (Transtorno Espectro Autista), mediante comprovação\nmédica, para o acompanhamento de necessidade de atendimento destes filhos, para posterior compensação com\nhoras extraordinárias.\n \nV - DAS JORNADAS ESPECIAIS\nAs empresas ficam autorizadas a adotar as seguintes jornadas especiais diretamente com seus empregados:\na) Jornada em Tempo Parcial, assim considerada aquela cuja duração não exceda de 30 (trinta) horas semanais,\nvedada horas extras e obedecidos os seguintes requisitos: a) dentro da semana a jornada poderá ser fixada em\nqualquer período (horas e dias), desde que não exceda o limite de 8 (oito) horas diários; b) o salário do empregado\ncontratado em tempo parcial será proporcional à jornada trabalhada, não podendo ser inferior ao salário hora do\nempregado paradigma contratado para trabalhar em tempo integral na mesma função; e c) após cada período de 12\n(doze) meses, o empregado terá direito a férias na proporção prevista no art. 130 da CLT, computada, para todos os\nefeitos, como tempo de serviço.\nb) Jornada Reduzida, assim considerada aquela cuja duração seja inferior a 44 (quarenta e quatro) horas e não se\ncaracteriza como jornada em tempo parcial, podendo ser estabelecida em horas de trabalho com garantia de\npercepção do piso salarial proporcional às horas trabalhadas. \nc) Jornada 12 x 36, assim considerada aquela em que a jornada será de 12 (doze) horas diárias seguida de 36\n(trinta e seis) horas de descanso obedecidos os seguintes requisitos: a) as 12 (doze) horas de efetivação no\ntrabalho serão consideradas como horas normais, não havendo de se falar em adicional extraordinário para as\nprestadas além da 8ª (oitava) diária; e b) não serão consideradas como extras as horas laboradas além das 44\n(quarenta e quatro) horas semanais, pois neste regime o excesso em uma semana é compensado pela diminuição\nna semana subsequente; e c) o descanso de 36 (trinta e seis) horas após cada dia de trabalho compensa o labor\nprestado em domingos, observado assim, a exigência legal de repouso remunerado prevista na legislação\ntrabalhista.\nd) Semana espanhola, assim entendida aquela que alterna jornada semanal de trabalho de 48 (quarenta e oito)\nhoras e jornada semanal de trabalho de 40 (quarenta) horas, com divisor de 220 (duzentas e vinte) horas mensais. \nPARÁGRAFO ÚNICO - Os regimes adotados serão válidos em atividade insalubre, independentemente da\nautorização a que alude o art. 60 da Consolidação das Leis de Trabalho.\n \nVI - DO PAGAMENTO DO DIA DO COMERCIÁRIO \nAs empresas poderão substituir o pagamento previsto na cláusula décima sétima da presente Convenção Coletiva\nde Trabalho por uma folga adicional que deverá ser concedida entre 1º de novembro de 2025 e 31 de outubro de\n2026, sendo facultado ao empregado concordar ou não com a folga.\nPARÁGRAFO ÚNICO - A empresa deverá encaminhar ao sindicato profissional listagem coletiva indicando o nome\ndo empregado e o dia que será concedida a folga adicional. As listas deverão ser enviadas, mensalmente, ao\nsindicato profissional por e-mail fiscalizacao@sindec.org.br\n\n \nVII - DO CONTROLE ALTERNATIVO DA JORNADA DE TRABALHO \nAs empresas ficam autorizadas a adotar sistema alternativo de controle eletrônico da jornada nos termos previstos\nno artigo 73 e seguintes da Portaria MTP nº 671, de 8 de novembro de 2021. \nPARÁGRAFO PRIMEIRO - O sistema eletrônico alternativo não deve admitir: I. Restrições à marcação do ponto; II.\nMarcação automática do ponto (salvo pré-assinalação do período de repouso na forma do art. 74, parágrafo\nsegundo, da CLT); III. Exigência de autorização prévia para marcação de sobrejornada; e IV. Alteração ou\neliminação dos dados registrados pelo empregado.\nPARÁGRAFO SEGUNDO - O Registro Eletrônico de Ponto (REP-A) adotado deverá reunir, também, as seguintes\ncondições: I. Encontrar-se disponível no local de trabalho para o registro dos horários de trabalho e consulta; II.\nPermitir a identificação de empregador e empregado; III. Possibilitar ao empregado, a qualquer tempo, através da\ncentral de dados, a consulta eletrônica e impressa do registro fiel das marcações realizadas; e IV. Possibilitar a\nfiscalização, quando solicitado, através da central de dados, a extração eletrônica e impressa do registro fiel das\nmarcações realizadas.\n \nVIII - DO INTERVALO PARA REPOUSO E ALIMENTAÇÃO\nAs empresas ficam autorizadas a ajustar individualmente com seus empregados a redução do intervalo para\nrepouso e alimentação para 40 (quarenta) minutos, período que será reduzido para 30 (trinta) minutos caso\nforneçam refeição em refeitório.\n \nIX - DO NÃO PAGAMENTO DA INDENIZAÇÃO ADICIONAL POR DISPENSA SEM JUSTA CAUSA \nO empregado dispensado, sem justa causa, no período de 30 (trinta) dias que antecede a data de sua correção\nsalarial, não terá direito à indenização adicional equivalente a um salário mensal, previsto no artigo 9º, da Lei nº\n7.238/84.\n \nX - FÉRIAS, SAL. MATERNIDADE, ANTECIPAÇÃO 13°, RESCISÓRIAS DOS COMISSIONISTAS\nO empregado comissionista terá o valor de suas férias, salário maternidade, antecipação do 13º salário e parcelas\nrescisórias calculado com base na média da remuneração variável percebida nos últimos 12 (doze) meses,\ngarantida a atualização monetária das parcelas que servirão de base de cálculo de acordo com a variação do INPC\nno período.\n \nXI - 13° SALÁRIO DOS COMISSIONISTAS\nO empregado comissionista terá o valor de sua gratificação natalina calculada com base na média da remuneração\nvariável percebida no ano, garantida a atualização monetária das parcelas que servirão de base de cálculo de\nacordo com a variação do INPC no período.\nPARÁGRAFO ÚNICO - Não serão atualizadas, em nenhuma hipótese, as comissões referentes ao último mês do\nperíodo base de cálculo.\n \nXII - DO TRABALHO EM TERÇA DE CARNAVAL\nAs empresas poderão utilizar empregados para o trabalho na terça feira de Carnaval obedecidas as mesmas\ncondições estabelecidas na cláusula octagésima quinta da presente Convenção Coletiva de Trabalho para o labor\nem dia feriado.\n\n \nXIII - DO TRABALHO EM DIA DE ELEIÇÕES\nAs empresas poderão utilizar o trabalho de seus empregados em dias de eleições municipais, estaduais e federais\ndesde que permita, na oportunidade, o deslocamento e o exercício do voto pelos mesmos.\n \nXIV - VALE TRANSPORTE\nO empregador fica autorizado a substituir a concessão antecipada do vale-transporte pelo pagamento equivalente\nem pecúnia, também de forma antecipada, do valor correspondente às suas despesas de deslocamento residência-\ntrabalho e vice-versa, através do sistema de transporte coletivo público, urbano ou intermunicipal e/ou interestadual\ncom características semelhantes aos urbanos, excluídos os serviços seletivos e os especiais.\nPARÁGRAFO PRIMEIRO - O valor indenizatório adiantado será descontado do empregado até o limite de 6% (seis\npor cento) de seu salário básico, sendo que o valor excedente será arcado exclusivamente pelo empregador.\nPARÁGRAFO SEGUNDO - No caso de faltas ao serviço, abonadas ou não; dispensa do trabalho para fins de\ncompensação; e teletrabalho na residência, não havendo deslocamento para a empresa, os valores\ncorrespondentes a estes dias também serão descontados por ocasião do pagamento dos salários.\nPARÁGRAFO TERCEIRO - O empregado deverá informar ao empregador as linhas utilizadas para o deslocamento\ne o valor das tarifas, fazendo idêntica comunicação em caso de alterações das linhas e/ou tarifas.\nPARÁGRAFO QUARTO - O valor pago a este título é de natureza indenizatória, não se incorpora à remuneração do\nempregado, e não constitui base de incidência de contribuição previdenciária ou fundiária.\n \nXV - HORÁRIO ESPECIAL NO DIA 28 DE NOVEMBRO\nFica ajustada condição especial vigente para o dia 28 de novembro de 2025 ajustando-se que o horário normal de\ntrabalho dos empregados representados pelo sindicato profissional acordante que desempenham funções\ndiretamente relacionadas com a atividade de venda e atendimento ao público poderá ser estendido até as 24 (vinte\ne quatro) horas, respeitada a seguinte sistemática:\na) Os empregados que estenderem a sua jornada nesta data e fizerem jus ao pagamento de horas extraordinárias,\nas mesmas serão pagas e calculadas com o adicional de 100% (cem por cento);\nb) Caso o empregado tenha a sua jornada de trabalho estendida nesta data e não tenha transporte público\ndisponível a empresa deverá fornecer transporte próprio para o deslocamento do local de trabalho até a residência\ndo empregado.\n \nXVI - DAS CONTRAPARTIDAS \nEm contrapartida, as empresas autorizadas a adotar as condições previstas nos incisos I, II, III, IV, V, VI, VII, VIII, IX,\nX, XI, XII, XIII, XIV e XV do caput da presente cláusula ficam obrigadas a garantir:\na) às suas empregadas mulheres, por filho menor de 06 (seis) anos, auxílio mensal em valor equivalente a 0,10 (um\ndécimo) do salário normativo da categoria, a título indenizatório, independentemente de qualquer comprovação de\ndespesas;\nb) que não ocorra dispensa arbitrária ou sem justa causa da empregada gestante, desde a confirmação da gravidez\naté cinco meses após o parto; e\nc) o pagamento das vantagens estabelecidas em caso de trabalho em feriados na cláusula octagésima quinta da\npresente Convenção Coletiva de Trabalho.\nPARÁGRAFO PRIMEIRO - Caso a empresa mantenha creches junto ao seu estabelecimento ou de forma\nconveniada estará desobrigada do pagamento do auxílio creche previsto na alínea \"a\" do presente inciso.\n\nPARÁGRAFO SEGUNDO - A empresa buscará celebrar convênios com creches acessíveis quanto ao local e\nhorário de funcionamento.\nPARÁGRAFO TERCEIRO - A empresa fica isenta do pagamento referido na alínea \"a\" do presente inciso quando a\nempregada estiver com seu contrato suspenso, durante o período de licença maternidade e nas férias caso sejam\ngozadas imediatamente após o período de licença maternidade, exclusivamente em relação ao filho recém-nascido."
+    },
+    {
+      "ordem": 85,
+      "numero": "CLÁUSULA OCTAGÉSIMA QUINTA",
+      "titulo": "DO TRABALHO EM FERIADOS",
+      "texto_completo": "As empresas que mantinham Acordo Coletivo de Trabalho com o sindicato profissional convenente, celebrado com a\nassistência do sindicato empresarial, com vigência em 2025, caso requeiram e obtenham certidão conjunta\nfornecida pelas entidades sindicais que ateste a regularidade do cumprimento destes Acordos Coletivos de\nTrabalho ficam autorizadas a utilizar empregados em feriados nas condições abaixo estabelecidas. A certidão não\nfornece quitação das obrigações do acordo coletivo referido, podendo ser revogada, a qualquer momento, caso\nconstatado descumprimento. As empresas que não mantinham Acordo Coletivo de Trabalho com o sindicato\nprofissional convenente, celebrado com a assistência do sindicato empresarial, ficam autorizadas a adotarem as\nregras e condições dos incisos da presente cláusula, mediante autorização específica em Acordo Coletivo de\nTrabalho celebrado com à assistência do sindicato empresarial.\n \nI - DO FUNCIONAMENTO NOS FERIADOS\nAs empresas poderão funcionar com a utilização de empregados em todos os feriados municipais, estaduais e\nfederais, exceto nos feriados de 1º de janeiro e 25 de dezembro.\nPARÁGRAFO ÚNICO - As empresas localizadas em Shopping Centers e em Centros Comerciais somente estarão\nautorizadas a funcionar em feriados com a utilização de empregados caso os empreendedores/proprietários destes\ncentros de compras não exijam o funcionamento obrigatório dos estabelecimentos em dias feriados.\n \nII - DO TRABALHO EM FERIADOS\nA jornada de trabalho em feriados poderá ser estabelecida de 6 (seis) até 8 (oito) horas.\nPARÁGRAFO PRIMEIRO - Será admitido o trabalho extraordinário por necessidade imperiosa de manutenção do\nserviço, até o limite máximo de duas horas, sendo o horário excedente remunerado proporcionalmente ao valor da\nhora indenizada, acrescido de 100% (cem por cento).\nPARÁGRAFO SEGUNDO – A partir de 1º de janeiro de 2026, os empregados que trabalharem em feriados\nautorizados, salvo no de 1º de maio de 2026, receberão, independentemente da jornada fixada, junto com a folha de\npagamento do mês e sob a forma de indenização, o valor equivalente a no mínimo R$ 70,00 (setenta\nreais) acrescido de uma folga compensatória, por feriado trabalhado, que não integrará o salário para qualquer\nefeito legal.\nPARÁGRAFO TERCEIRO – A empresa poderá optar por não conceder a folga compensatória prevista no parágrafo\nsegundo do item II da presente cláusula, hipótese em que pagará o valor total de no mínimo R$ 140,00 (cento e\nquarenta reais), ficando a indenização condicionada a concordância individual do empregado, concordância esta\nque não será necessária nos feriados do mês de novembro.\nPARÁGRAFO QUARTO – Os empregados que trabalharem no feriado de 1º de maio de 2026 receberão,\nindependentemente da jornada fixada, junto com a folha de pagamento do mês e sob a forma de indenização, o\nvalor equivalente a no mínimo R$ 75,00 (setenta e cinco reais) acrescido de uma folga compensatória, que não\nintegrará o salário para qualquer efeito legal.\nPARÁGRAFO QUINTO – A empresa poderá optar por não conceder a folga compensatória prevista no parágrafo\nquarto do inciso II da presente cláusula, hipótese em que pagará o valor total de no mínimo R$ 150,00 (cento e\ncinquenta reais), ficando a indenização condicionada a concordância individual do empregado.\nPARÁGRAFO SEXTO - Os empregados que trabalharem em feriados serão dispensados do trabalho, para fins de\ngozo do repouso remunerado compensatório, em data a ser fixada dentro do mês do feriado trabalhado ou no mês\nsubsequente, salvo nas hipóteses previstas no parágrafo terceiro e parágrafo quinto do inciso II da presente\ncláusula.\n\nPARÁGRAFO SÉTIMO - Quando o feriado coincidir com o domingo prevalece o convencionado para o trabalho no\nferiado.\nPARÁGRAFO OITAVO - Os empregados que laborarem em mais do que 5 (cinco) feriados durante o ano terão\ndireito, até 31 de dezembro de 2026, a concessão de 3 (três) folgas adicionais em domingos, sem prejuízo das\ncondições estabelecidas para o trabalho em domingos como condição para o trabalho em feriados.\nPARÁGRAFO NONO - Caso o empregado seja demitido da empresa antes de gozar todas as folgas\ncompensatórias, será indenizado pelo valor do salário/dia por folga não gozada por ocasião do pagamento das\nverbas rescisórias.\nPARÁGRAFO DÉCIMO - Caso o empregado rescinda o contrato de trabalho por sua iniciativa e ainda não tenha\ngozado as folgas adicionais não terá direito a nenhuma indenização por ocasião da percepção das verbas\nrescisórias.\n \nIII - DO VALE-TRANSPORTE PARA TRABALHO EM FERIADOS\nFica assegurado o fornecimento de vale-transporte para os empregados que trabalharem nos feriados previstos na\npresente Convenção Coletiva de Trabalho.\n \nIV - DA ALIMENTAÇÃO PARA TRABALHO EM FERIADOS\nA partir de 1º de janeiro de 2026, as empresas fornecerão refeição aos empregados que trabalharem nos feriados\nou ficam obrigadas a fornecer vale refeição/alimentação ou indenização em dinheiro nos valores mínimos:\n \na) Empresas com quadro total de empregados de até 20 (vinte) trabalhadores: \n1) Jornada de trabalho de até 6 (seis) horas: R$ 23,00 (vinte e três reais);\n2) Jornada de trabalho superior a 6 (seis) horas: R$ 32,00 (trinta e dois reais).\n \nb) Empresas com quadro total de empregados de 21 (vinte e um) a 100 (cem) trabalhadores: \n1) Jornada de trabalho de até 6 (seis) horas: R$ 23,00 (vinte e três reais);\n2) Jornada de trabalho superior a 6 (seis) horas: R$ 38,00 (trinta e oito reais).\n \nc) Empresas com quadro total de empregados de 101 (cento e um) ou mais trabalhadores: \n1) Jornada de trabalho de até 6 (seis) horas: R$ 23,00 (vinte e três reais);\n2) Jornada de trabalho superior a 6 (seis) horas: R$ 49,00 (quarenta e nove reais). A partir de 1º de julho de 2026 o\nvalor passará para R$ 55,00 (cinquenta e cinco reais).\n \nV - DAS CONTRAPARTIDAS \nEm contrapartida, as empresas autorizadas a funcionar com empregados em feriados, conforme as condições\nprevistas nos incisos I, II, III e IV da presente cláusula, respeitarão as regras abaixo relativas ao trabalho em\ndomingos:\na) A jornada de trabalho em domingos poderá ser estabelecida de 6 (seis) até 8 (oito) horas.\nb) Será admitido o trabalho extraordinário por necessidade imperiosa de manutenção do serviço em domingos, até o\nlimite máximo de duas horas, sendo o horário excedente remunerado proporcionalmente ao valor da hora, acrescido\n\nde 100% (cem por cento). \nc) Os empregados que trabalharem em domingos serão dispensados do trabalho, para fins de gozo do repouso\nremunerado compensatório, em data a ser fixada na própria semana do trabalho em domingo, sendo que,\nindependentemente do gênero, a cada quatro semanas o repouso semanal remunerado deverá coincidir com o\ndomingo, ou seja, após três domingos o outro será necessariamente de repouso (regime 3x1). Excetuam-se dessa\nregra os empregados contratados para trabalhar somente em sextas-feiras, sábados e domingos.\nd) Os empregados que trabalharem em domingos por mais 90 (noventa) dias terão direito a 3 (três) dias de folga\nadicionais anuais, obrigação que poderá ser substituída pela adoção do trabalho em domingos alternados, ou seja, a\ncada domingo trabalhado segue-se outro domingo necessariamente de descanso não ensejando, neste caso, a\nconcessão de folgas adicionais aos empregados.\ne) Caso o empregado seja demitido da empresa antes de gozar todas as folgas adicionais, será indenizado pelo\nvalor do salário/dia por folga não gozada por ocasião do pagamento das verbas rescisórias.\nf) Caso o empregado rescinda o contrato de trabalho por sua iniciativa e ainda não tenha gozado as folgas\nadicionais não terá direito a nenhuma indenização por ocasião da percepção das verbas rescisórias.\ng) Fica assegurado o fornecimento de vale-transporte para os empregados que trabalharem nos domingos.\nh) A partir de 1º de janeiro de 2026, as empresas fornecerão refeição aos empregados que trabalharem nos\ndomingos ou, ficam obrigadas a fornecer vale refeição/alimentação ou indenização em dinheiro nos valores\nmínimos:\n \nh.1) Empresas com quadro total de empregados de até 20 (vinte) trabalhadores: \n1) Jornada de trabalho de até 6 (seis) horas: R$ 23,00 (vinte e três reais);\n2) Jornada de trabalho superior a 6 (seis) horas: R$ 32,00 (trinta e dois reais).\n \nh.2) Empresas com quadro total de empregados de 21 (vinte e um) a 100 (cem) trabalhadores: \n1) Jornada de trabalho de até 6 (seis) horas: R$ 23,00 (vinte e três reais);\n2) Jornada de trabalho superior a 6 (seis) horas: R$ 38,00 (trinta e oito reais).\n \nh.3) Empresas com quadro total de empregados de 101 (cento e um) ou mais trabalhadores: \n1) Jornada de trabalho de até 6 (seis) horas: R$ 23,00 (vinte e três reais);\n2) Jornada de trabalho superior a 6 (seis) horas: R$ 49,00 (quarenta e nove reais). A partir de 1º de julho de 2026 o\nvalor passará para R$ 55,00 (cinquenta e cinco reais).\n \nVI  - REGRA GERAL PARA TRABALHO EM DOMINGOS E FERIADOS\nAs empresas ficam obrigadas a remeter mensalmente ao sindicato profissional listas informando o nome do\nempregado que trabalhar em domingos e feriados no mês e suas respectivas folgas. As listas deverão ser enviadas\nao sindicato profissional por e-mail fiscalizacao@sindec.org.br.\n \nVII - VIGÊNCIA DAS CONDIÇÕES PREVISTAS NESTA CLÁUSULA\nAs condições estabelecidas na presente cláusula, salvo acordo em contrário estabelecido pelas partes, terão\nvigência automaticamente prorrogada até 31 de dezembro de 2026."
+    },
+    {
+      "ordem": 86,
+      "numero": "CLÁUSULA OCTAGÉSIMA SEXTA",
+      "titulo": "INFORMAÇÃO SOBRE O NÚMERO DE EMPREGADOS",
+      "texto_completo": "As empresas abrangidas pela presente Convenção Coletiva de Trabalho, ficam obrigadas a informar, até o dia 15 de\ndezembro de 2025, através dos e-mails sindec@sindec.org.br e convencao@sindilojaspoa.com.br, o número de\nempregados que possuem em Porto Alegre, para fins de atendimento pelas entidades sindicais convenentes da\nobrigação prevista no item 3.1. do Manual do Sistema Mediador do Ministério do Trabalho e Emprego.\nItem único – O fornecimento das certidões a que se referem as cláusulas octagésima quarta e octagésima quinta\nfica condicionado a informação prevista no caput da presente cláusula.\n}\nARCIONE PIVA\nPRESIDENTE\nSINDICATO DOS LOJISTAS DO COMERCIO DE PORTO ALEGRE\nANDRE LUIZ RONCATTO\nPRESIDENTE\nSINDICATO DO COM VAR MAT OPTICO FOTO E CINE DO RS\nNILTON NECO SOUZA DA SILVA\nPRESIDENTE\nSINDICATO DOS EMPREGADOS NO COMERCIO DE PORTO ALEGRE\nANEXOS\nANEXO I - ATA\nAnexo (PDF)"
+    }
+  ]
+}

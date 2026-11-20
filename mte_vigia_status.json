@@ -1,0 +1,61 @@
+{
+  "sistema": "Vigilante MTE Mediador 24/7 - Pré-Infra",
+  "intervalo_segundos": 60,
+  "ciclo_atual": 40,
+  "ultima_varredura": "01/11/2026 16:49:53",
+  "timestamp_iso": "2026-11-01T16:49:53.666869",
+  "status_conexao_mte": "ONLINE (SRTEs 27/27 OK)",
+  "sindicatos_monitorados": 3,
+  "alertas_novos": 0,
+  "sindicatos": [
+    {
+      "id": "sind-canoas-comercio",
+      "cnpj": "90.812.345/0001-90",
+      "sigla": "SEC CANOAS",
+      "razao_social": "SINDICATO DOS EMPREGADOS NO COMERCIO DE CANOAS",
+      "uf": "RS",
+      "cidade": "Canoas",
+      "categoria": "Comércio Varejista e Supermercados",
+      "data_base": "1º de Março",
+      "instrumento_vigente": "RS002841/2025",
+      "processo_mte_2026": "10263.200845/2026-11",
+      "status_mte": "Em Negociação / Mesa Redonda MTE Solicitada",
+      "previsao_homologacao": "Abril a Maio de 2026 (efeitos retroativos a 01/03/2026)",
+      "reajuste_previsto": "6.35% pauta (estimativa consensual: 5.2% a 5.6%)",
+      "piso_previsto": "R$ 2.063,00 (Geral) / R$ 2.180,00 (Caixa)"
+    },
+    {
+      "id": "sind-canoas-metalurgicos",
+      "cnpj": "90.812.987/0001-65",
+      "sigla": "STMMENC",
+      "razao_social": "SINDICATO DOS METALURGICOS DE CANOAS E NOVA SANTA RITA",
+      "uf": "RS",
+      "cidade": "Canoas",
+      "categoria": "Metalurgia, Mecânica e Material Elétrico",
+      "data_base": "1º de Maio",
+      "instrumento_vigente": "RS001102/2026",
+      "processo_mte_2026": "10263.100982/2026-19",
+      "status_mte": "Vigente",
+      "previsao_homologacao": "Homologado no MTE",
+      "reajuste_previsto": "5.40%",
+      "piso_previsto": "R$ 2.150,00 (Ingresso) / R$ 2.480,00 (Operador)"
+    },
+    {
+      "id": "sind-sp-construcao",
+      "cnpj": "62.823.123/0001-45",
+      "sigla": "SINTRACON-SP",
+      "razao_social": "SINDICATO DOS TRABALHADORES NA CONSTRUCAO CIVIL DE SP",
+      "uf": "SP",
+      "cidade": "São Paulo",
+      "categoria": "Construção Civil & Edificações",
+      "data_base": "Maio",
+      "instrumento_vigente": "SP001428/2026",
+      "processo_mte_2026": "10263.100452/2026-88",
+      "status_mte": "Vigente",
+      "previsao_homologacao": "Homologado no MTE",
+      "reajuste_previsto": "5.82%",
+      "piso_previsto": "R$ 2.180,50 (Servente) / R$ 2.890,00 (Oficial)"
+    }
+  ],
+  "log_recente": "[16:49:53] Varredura nº 40: MTE Mediador verificado. SEC Canoas RS com mediação ativa 10263.200845/2026-11."
+}

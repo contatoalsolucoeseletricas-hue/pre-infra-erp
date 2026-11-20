@@ -1,0 +1,6 @@
+﻿Modelo de Escala;Turma / Equipe;Horário Turno;Segunda;Terça;Quarta;Quinta;Sexta;Sábado;Domingo;Total Horas Sem.;Regime Legal;Conformidade CLT
+Comercial 5x2;Geral / ADM;08:00 às 17:00 (1h almoço);Trabalho (8h);Trabalho (8h);Trabalho (8h);Trabalho (8h);Trabalho (8h);FOLGA (DSR);FOLGA (DSR);40h;Art. 7º, XIII CF/88;100% Regular - Risco 0%
+Contínuo 24/7;Turma A (Manhã);06:00 às 14:20;Trabalho (8h);Trabalho (8h);Trabalho (8h);Trabalho (8h);Trabalho (8h);FOLGA 1;FOLGA 2;40h;Súmula 423 TST / ACT;Conforme ACT MTE
+Contínuo 24/7;Turma B (Tarde);14:20 às 22:40;FOLGA 1;FOLGA 2;Trabalho (8h);Trabalho (8h);Trabalho (8h);Trabalho (8h);Trabalho (8h);40h;Súmula 423 TST / ACT;Conforme ACT MTE
+Contínuo 24/7;Turma C (Noite);22:40 às 06:00;Trabalho (8h);Trabalho (8h);FOLGA 1;FOLGA 2;Trabalho (8h);Trabalho (8h);Trabalho (8h);40h;Art. 73 CLT + ACT;Adicional Noturno 20%
+Contínuo 24/7;Turma D (Revezamento);Turnos Móveis;Cobre Turma B;Cobre Turma B;Cobre Turma C;Cobre Turma C;FOLGA 1;FOLGA 2;Cobre Turma A;40h;Portaria MTE 3.665/23;Cobertura 168h sem passivo

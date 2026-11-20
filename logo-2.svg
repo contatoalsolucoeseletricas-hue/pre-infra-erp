@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120" role="img" aria-label="Pré Infra — Construção Inteligente">
+  <g transform="translate(20,20)">
+    <rect width="80" height="80" rx="40" fill="#0f172a"/>
+    <text x="40" y="53" font-family="Inter, Arial, sans-serif" font-size="34"
+          font-weight="900" fill="#ffffff" text-anchor="middle">PI</text>
+  </g>
+  <text x="120" y="54" font-family="Inter, Arial, sans-serif" font-size="30"
+        font-weight="800" fill="#0f172a" letter-spacing="-1">Pré Infra</text>
+  <text x="120" y="80" font-family="Inter, Arial, sans-serif" font-size="12"
+        font-weight="600" fill="#3b82f6" letter-spacing="5">CONSTRUÇÃO INTELIGENTE</text>
+</svg>
